@@ -1,5 +1,10 @@
 import matplotlib.pyplot as plt
 import re
+import os
+
+
+CARPETA_SALIDAS = os.path.join("QCRAFT-Scheduler-Machines", "QCRAFT-Scheduler", "salidas")
+
 
 def graficar_qubits(MaxPD_file, MaxML_file, tiempo_file, tiempo_file_no, criterio):
     planificaciones = []
@@ -72,4 +77,8 @@ for criterio in range(1, 4):
     MaxML_file = f'criterio_{criterio}_MaxML.txt'
     tiempo_file = f'criterio_{criterio}_tiempo.txt'
     tiempo_file_no = f'criterio_tiempo.txt'
+    MaxPD_file = os.path.join(CARPETA_SALIDAS, MaxPD_file)
+    MaxML_file = os.path.join(CARPETA_SALIDAS, MaxML_file)
+    tiempo_file = os.path.join(CARPETA_SALIDAS, tiempo_file)  
+    tiempo_file_no = os.path.join(CARPETA_SALIDAS, tiempo_file_no)
     graficar_qubits(MaxPD_file, MaxML_file, tiempo_file, tiempo_file_no, criterio)

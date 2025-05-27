@@ -1,6 +1,9 @@
 import re
 import os
 
+
+CARPETA_SALIDAS = os.path.join("QCRAFT-Scheduler-Machines", "QCRAFT-Scheduler", "salidas")
+
 def extraer_datos(nombre_archivo):
     with open(nombre_archivo, 'r', encoding='utf-8') as f:
         contenido = f.read()
@@ -28,7 +31,7 @@ ficheros= ['criterio_1_MaxPD.txt', 'criterio_2_MaxPD.txt', 'criterio_3_MaxPD.txt
 
 for fichero in ficheros:
     print(fichero)
-    nombre_archivo = fichero # Cambia esto por el nombre de tu archivo
+    nombre_archivo = os.path.join(CARPETA_SALIDAS, fichero)
     qubits_totales, valores_segundos, circuitos_totales = extraer_datos(nombre_archivo)
 
     total=0
