@@ -1,0 +1,385 @@
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('qft_3_vq.py', 3, 1),   ('tsp_indep_5_mqt.py', 5, 1),   ('adder_n16_vq.py', 16, 1),   ('qaoa_indep_4_mqt.py', 4, 1),   ('kickback_7_vq.py', 7, 1),   ('qaoa_qcraft.py', 2, 1),   ('shor_qcraft.py', 4, 1),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 1),   ('kickback_7_vq.py', 7, 1),   ('qft_qcraft.py', 4, 1),   ('bv_14_vq.py', 14, 1),   ('shor_qcraft.py', 4, 1),   ('bv_14_vq.py', 14, 1),   ('vqe_indep_4_mqt.py', 4, 1),   ('adder_n13_vq.py', 13, 1),   ('grover_7_vq.py', 7, 1),   ('qft_7_vq.py', 7, 1),   ('qft_3_vq.py', 3, 1),   ('pe_4_mqt.py', 4, 1),   ('pe_7_mqt.py', 7, 1),   ('qft_qcraft.py', 4, 1),   ('grover_3_vq.py', 3, 1), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 22
+
+Maquina utilizada: ibm_kingston --Qubits: 156--
+Cola Seleccionada: [  ('pe_3_mqt.py', 3, 2),   ('grover-noancilla_3_mqt.py', 3, 2),   ('qaoa_6_vq.py', 6, 2),   ('bv_14_vq.py', 14, 2),   ('grover-v-chain_4_mqt.py', 4, 2),   ('qft_2_mqt.py', 2, 2),   ('kickback_7_vq.py', 7, 2),   ('vqe_indep_3_mqt.py', 3, 2),   ('qft_4_mqt.py', 4, 2),   ('su2random_3_mqt.py', 3, 2),   ('pe_6_vq.py', 7, 2),   ('simon_qcraft.py', 6, 2),   ('vqe_indep_3_mqt.py', 3, 2),   ('bv_4_vq.py', 4, 2),   ('reversible_5_adder_vq.py', 11, 2),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 2),   ('adder_n16_vq.py', 16, 2),   ('dj_indep_5_mqt.py', 5, 2),   ('qft_qcraft.py', 4, 2),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 2),   ('su2random_3_mqt.py', 3, 2),   ('qaoa_indep_3_mqt.py', 3, 2),   ('qft_3_mqt.py', 3, 2),   ('grover_qcraft.py', 2, 2), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 24
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('shor_mod21_mqt.py', 8, 3),   ('dj_indep_5_mqt.py', 5, 3),   ('qft_6_mqt.py', 6, 3),   ('phase_estimation_qcraft.py', 4, 3),   ('qft_6_mqt.py', 6, 3),   ('pe_3_mqt.py', 3, 3),   ('shor_qcraft.py', 4, 3),   ('pe_5_vq.py', 6, 3),   ('qaoa_indep_6_mqt.py', 6, 3),   ('qaoa_indep_6_mqt.py', 6, 3),   ('qft_4_mqt.py', 4, 3),   ('qft_3_mqt.py', 3, 3),   ('qft_6_mqt.py', 6, 3),   ('grover-v-chain_4_mqt.py', 4, 3),   ('grover-noancilla_4_mqt.py', 4, 3),   ('qaoa_indep_5_mqt.py', 5, 3),   ('dj_indep_5_mqt.py', 5, 3),   ('bv_2_vq.py', 2, 3),   ('qft_3_vq.py', 3, 3),   ('kickback_7_vq.py', 7, 3),   ('qft_2_mqt.py', 2, 3),   ('pe_7_mqt.py', 7, 3),   ('qaoa_indep_6_mqt.py', 6, 3),   ('Deutsch-Jozsa_qcraft.py', 4, 3),   ('qwalk-v-chain_5_mqt.py', 5, 3),   ('qft_3_mqt.py', 3, 3),   ('qaoa_indep_4_mqt.py', 4, 3),   ('adder_n10_vq.py', 10, 3),   ('tsp_indep_5_mqt.py', 5, 3),   ('adder_n10_vq.py', 10, 3),   ('pe_2_vq.py', 3, 3), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 31
+
+Maquina utilizada: ibm_kingston --Qubits: 156--
+Cola Seleccionada: [  ('bv_4_vq.py', 4, 4),   ('su2random_4_mqt.py', 4, 4),   ('dj_indep_5_mqt.py', 5, 4),   ('shor_mod15_mqt.py', 5, 4),   ('vqe_indep_6_mqt.py', 6, 4),   ('tsp_indep_4_mqt.py', 4, 4),   ('qaoa_indep_5_mqt.py', 5, 4),   ('3_17tc_vq.py', 3, 4),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 4),   ('simon_qcraft.py', 6, 4),   ('bv_4_vq.py', 4, 4),   ('pe_5_vq.py', 6, 4),   ('vqe_indep_4_mqt.py', 4, 4),   ('6symd2_vq.py', 10, 4),   ('shor_mod15_mqt.py', 5, 4),   ('shor_mod21_mqt.py', 8, 4),   ('pe_4_mqt.py', 4, 4),   ('dj_indep_7_mqt.py', 7, 4),   ('shor_qcraft.py', 4, 4),   ('qaoa_indep_6_mqt.py', 6, 4),   ('qwalk-v-chain_5_mqt.py', 5, 4),   ('qft_qcraft.py', 4, 4),   ('6symd2_vq.py', 10, 4),   ('su2random_3_mqt.py', 3, 4),   ('pe_5_vq.py', 6, 4),   ('pe_2_vq.py', 3, 4),   ('bv_4_vq.py', 4, 4), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 27
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 5),   ('tsp_qcraft.py', 5, 5),   ('kickback_qcraft.py', 4, 5),   ('grover_3_vq.py', 3, 5),   ('vqe_indep_6_mqt.py', 6, 5),   ('bernstein-vazirani_qcraft.py', 4, 5),   ('grover_3_vq.py', 3, 5),   ('grover_7_vq.py', 7, 5),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 5),   ('vqe_indep_4_mqt.py', 4, 5),   ('bv_9_vq.py', 9, 5),   ('qwalk-noancilla_3_mqt.py', 3, 5),   ('adder_qcraft.py', 4, 5),   ('adder_n4_vq.py', 4, 5),   ('qaoa_indep_6_mqt.py', 6, 5),   ('pe_5_mqt.py', 5, 5),   ('grover-v-chain_3_mqt.py', 3, 5),   ('bernstein-vazirani_qcraft.py', 4, 5),   ('qwalk_qcraft.py', 3, 5),   ('pe_4_mqt.py', 4, 5),   ('bernstein-vazirani_qcraft.py', 4, 5),   ('qft_7_vq.py', 7, 5),   ('qft_3_mqt.py', 3, 5),   ('grover_9_vq.py', 9, 5),   ('qft_3_vq.py', 3, 5),   ('vqe_indep_4_mqt.py', 4, 5),   ('shor_mod15_mqt.py', 5, 5), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 27
+
+Maquina utilizada: ibm_kingston --Qubits: 156--
+Cola Seleccionada: [  ('reversible_5_adder_vq.py', 11, 6),   ('qft_4_mqt.py', 4, 6),   ('qwalk-v-chain_5_mqt.py', 5, 6),   ('grover-v-chain_4_mqt.py', 4, 6),   ('dj_indep_4_mqt.py', 4, 6),   ('grover_7_vq.py', 7, 6),   ('qaoa_indep_3_mqt.py', 3, 6),   ('shor_mod21_mqt.py', 8, 6),   ('shor_mod21_mqt.py', 8, 6),   ('dj_indep_5_mqt.py', 5, 6),   ('qft_6_mqt.py', 6, 6),   ('pe_6_mqt.py', 6, 6),   ('su2_5_vq.py', 4, 6),   ('pe_6_mqt.py', 6, 6),   ('dj_indep_7_mqt.py', 7, 6),   ('qft_4_mqt.py', 4, 6),   ('kickback_qcraft.py', 4, 6),   ('grover_qcraft.py', 2, 6),   ('vqe_indep_4_mqt.py', 4, 6),   ('adder_qcraft.py', 4, 6),   ('pe_6_vq.py', 7, 6),   ('qft_qcraft.py', 4, 6),   ('shor_mod15_mqt.py', 5, 6),   ('qft_4_mqt.py', 4, 6),   ('tsp_indep_4_mqt.py', 4, 6),   ('qaoa_indep_4_mqt.py', 4, 6),   ('grover-noancilla_4_mqt.py', 4, 6),   ('bv_5_vq.py', 5, 6),   ('phase_estimation_qcraft.py', 4, 6),   ('su2_5_vq.py', 4, 6),   ('pe_4_mqt.py', 4, 6), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 31
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('pe_5_vq.py', 6, 7),   ('shor_mod15_mqt.py', 5, 7),   ('kickback_7_vq.py', 7, 7),   ('3_17tc_vq.py', 3, 7),   ('qwalk-v-chain_5_mqt.py', 5, 7),   ('grover_9_vq.py', 9, 7),   ('qft_2_mqt.py', 2, 7),   ('pe_4_mqt.py', 4, 7),   ('pe_5_vq.py', 6, 7),   ('qaoa_qcraft.py', 2, 7),   ('adder_n16_vq.py', 16, 7),   ('qaoa_indep_3_mqt.py', 3, 7),   ('adder_n13_vq.py', 13, 7),   ('bv_14_vq.py', 14, 7),   ('tsp_indep_4_mqt.py', 4, 7),   ('dj_indep_7_mqt.py', 7, 7),   ('pe_4_mqt.py', 4, 7),   ('grover_3_vq.py', 3, 7),   ('adder_qcraft.py', 4, 7),   ('tsp_qcraft.py', 5, 7),   ('pe_5_vq.py', 6, 7),   ('qft_6_mqt.py', 6, 7),   ('tsp_qcraft.py', 5, 7),   ('grover-v-chain_3_mqt.py', 3, 7),   ('qaoa_indep_5_mqt.py', 5, 7),   ('bv_2_vq.py', 2, 7),   ('kickback_qcraft.py', 4, 7),   ('qft_3_mqt.py', 3, 7), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 28
+
+Maquina utilizada: ibm_kingston --Qubits: 156--
+Cola Seleccionada: [  ('bv_9_vq.py', 9, 8),   ('adder_n10_vq.py', 10, 8),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 8),   ('grover-v-chain_4_mqt.py', 4, 8),   ('qft_3_mqt.py', 3, 8),   ('tsp_indep_4_mqt.py', 4, 8),   ('qaoa_indep_4_mqt.py', 4, 8),   ('vqe_indep_5_mqt.py', 5, 8),   ('bernstein-vazirani_qcraft.py', 4, 8),   ('qft_7_vq.py', 7, 8),   ('kickback_7_vq.py', 7, 8),   ('grover_9_vq.py', 9, 8),   ('qft_7_vq.py', 7, 8),   ('qaoa_indep_3_mqt.py', 3, 8),   ('3_17tc_vq.py', 3, 8),   ('pe_4_mqt.py', 4, 8),   ('pe_5_mqt.py', 5, 8),   ('qaoa_indep_4_mqt.py', 4, 8),   ('qft_qcraft.py', 4, 8),   ('kickback_qcraft.py', 4, 8),   ('adder_n4_vq.py', 4, 8),   ('bernstein-vazirani_qcraft.py', 4, 8),   ('adder_n7_vq.py', 7, 8),   ('grover-v-chain_3_mqt.py', 3, 8),   ('bv_4_vq.py', 4, 8),   ('pe_4_mqt.py', 4, 8),   ('bv_2_vq.py', 2, 8),   ('qft_4_mqt.py', 4, 8),   ('adder_qcraft.py', 4, 8), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 29
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('qaoa_indep_6_mqt.py', 6, 9),   ('adder_n16_vq.py', 16, 9),   ('qwalk-noancilla_3_mqt.py', 3, 9),   ('qaoa_indep_5_mqt.py', 5, 9),   ('bv_14_vq.py', 14, 9),   ('qwalk_qcraft.py', 3, 9),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 9),   ('pe_6_mqt.py', 6, 9),   ('vqe_indep_6_mqt.py', 6, 9),   ('su2_5_vq.py', 4, 9),   ('qft_4_mqt.py', 4, 9),   ('bv_5_vq.py', 5, 9),   ('qwalk_qcraft.py', 3, 9),   ('grover-noancilla_3_mqt.py', 3, 9),   ('vqe_indep_3_mqt.py', 3, 9),   ('adder_n13_vq.py', 13, 9),   ('phase_estimation_qcraft.py', 4, 9),   ('grover_qcraft.py', 2, 9),   ('shor_qcraft.py', 4, 9),   ('dj_indep_14_mqt.py', 14, 9),   ('grover_qcraft.py', 2, 9),   ('adder_n4_vq.py', 4, 9),   ('reversible_5_adder_vq.py', 11, 9), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 23
+
+Maquina utilizada: ibm_kingston --Qubits: 156--
+Cola Seleccionada: [  ('qft_6_mqt.py', 6, 10),   ('dj_indep_7_mqt.py', 7, 10),   ('vqe_indep_3_mqt.py', 3, 10),   ('pe_5_mqt.py', 5, 10),   ('grover-noancilla_3_mqt.py', 3, 10),   ('qft_7_vq.py', 7, 10),   ('kickback_qcraft.py', 4, 10),   ('adder_n16_vq.py', 16, 10),   ('qaoa_indep_3_mqt.py', 3, 10),   ('qwalk-v-chain_3_mqt.py', 3, 10),   ('tsp_indep_5_mqt.py', 5, 10),   ('pe_5_vq.py', 6, 10),   ('su2random_3_mqt.py', 3, 10),   ('qft_7_vq.py', 7, 10),   ('qft_4_mqt.py', 4, 10),   ('adder_qcraft.py', 4, 10),   ('tsp_indep_5_mqt.py', 5, 10),   ('qwalk-noancilla_3_mqt.py', 3, 10),   ('qaoa_indep_6_mqt.py', 6, 10),   ('adder_n13_vq.py', 13, 10),   ('pe_2_vq.py', 3, 10),   ('dj_indep_14_mqt.py', 14, 10),   ('bernstein-vazirani_qcraft.py', 4, 10),   ('grover_9_vq.py', 9, 10),   ('shor_mod15_mqt.py', 5, 10),   ('dj_indep_5_mqt.py', 5, 10),   ('grover_3_vq.py', 3, 10), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 27
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('bv_14_vq.py', 14, 11),   ('tsp_indep_5_mqt.py', 5, 11),   ('kickback_7_vq.py', 7, 11),   ('grover_9_vq.py', 9, 11),   ('qaoa_indep_4_mqt.py', 4, 11),   ('dj_indep_7_mqt.py', 7, 11),   ('su2_5_vq.py', 4, 11),   ('simon_vq.py', 6, 11),   ('kickback_qcraft.py', 4, 11),   ('vqe_indep_6_mqt.py', 6, 11),   ('qft_7_vq.py', 7, 11),   ('adder_n4_vq.py', 4, 11),   ('qft_7_vq.py', 7, 11),   ('Deutsch-Jozsa_qcraft.py', 4, 11),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 11),   ('Deutsch-Jozsa_qcraft.py', 4, 11),   ('pe_5_mqt.py', 5, 11),   ('shor_qcraft.py', 4, 11),   ('su2random_3_mqt.py', 3, 11),   ('phase_estimation_qcraft.py', 4, 11),   ('qwalk-noancilla_3_mqt.py', 3, 11),   ('qwalk-v-chain_5_mqt.py', 5, 11),   ('qft_4_mqt.py', 4, 11),   ('su2_5_vq.py', 4, 11),   ('pe_6_mqt.py', 6, 11),   ('qaoa_indep_3_mqt.py', 3, 11),   ('bv_2_vq.py', 2, 11), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 27
+
+Maquina utilizada: ibm_kingston --Qubits: 156--
+Cola Seleccionada: [  ('simon_qcraft.py', 6, 12),   ('dj_indep_4_mqt.py', 4, 12),   ('kickback_qcraft.py', 4, 12),   ('bv_3_vq.py', 3, 12),   ('qwalk-noancilla_3_mqt.py', 3, 12),   ('shor_mod21_mqt.py', 8, 12),   ('qaoa_6_vq.py', 6, 12),   ('grover_9_vq.py', 9, 12),   ('adder_n4_vq.py', 4, 12),   ('6symd2_vq.py', 10, 12),   ('tsp_indep_5_mqt.py', 5, 12),   ('qft_7_vq.py', 7, 12),   ('adder_n10_vq.py', 10, 12),   ('adder_n7_vq.py', 7, 12),   ('su2random_4_mqt.py', 4, 12),   ('su2random_4_mqt.py', 4, 12),   ('grover_qcraft.py', 2, 12),   ('bv_3_vq.py', 3, 12),   ('bv_2_vq.py', 2, 12),   ('dj_indep_4_mqt.py', 4, 12),   ('simon_qcraft.py', 6, 12),   ('pe_4_mqt.py', 4, 12),   ('tsp_indep_4_mqt.py', 4, 12),   ('qaoa_6_vq.py', 6, 12),   ('qaoa_qcraft.py', 2, 12),   ('vqe_indep_6_mqt.py', 6, 12),   ('grover-noancilla_4_mqt.py', 4, 12),   ('bernstein-vazirani_qcraft.py', 4, 12),   ('simon_vq.py', 6, 12),   ('3_17tc_vq.py', 3, 12),   ('pe_6_mqt.py', 6, 12), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 31
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('qwalk_qcraft.py', 3, 13),   ('grover-noancilla_4_mqt.py', 4, 13),   ('qwalk_qcraft.py', 3, 13),   ('pe_2_vq.py', 3, 13),   ('adder_n7_vq.py', 7, 13),   ('adder_qcraft.py', 4, 13),   ('vqe_indep_6_mqt.py', 6, 13),   ('pe_5_vq.py', 6, 13),   ('adder_n4_vq.py', 4, 13),   ('qft_3_vq.py', 3, 13),   ('vqe_indep_5_mqt.py', 5, 13),   ('pe_4_mqt.py', 4, 13),   ('adder_n4_vq.py', 4, 13),   ('adder_n4_vq.py', 4, 13),   ('qft_2_mqt.py', 2, 13),   ('adder_n4_vq.py', 4, 13),   ('adder_n7_vq.py', 7, 13),   ('vqe_indep_3_mqt.py', 3, 13),   ('bv_14_vq.py', 14, 13),   ('phase_estimation_qcraft.py', 4, 13),   ('qwalk_qcraft.py', 3, 13),   ('qaoa_indep_4_mqt.py', 4, 13),   ('grover-v-chain_3_mqt.py', 3, 13),   ('Deutsch-Jozsa_qcraft.py', 4, 13),   ('reversible_5_adder_vq.py', 11, 13),   ('su2random_4_mqt.py', 4, 13),   ('pe_2_vq.py', 3, 13),   ('bv_2_vq.py', 2, 13),   ('bv_2_vq.py', 2, 13),   ('adder_n16_vq.py', 16, 13),   ('qft_qcraft.py', 4, 13),   ('tsp_indep_5_mqt.py', 5, 13), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 32
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('qwalk_qcraft.py', 3, 14),   ('dj_indep_7_mqt.py', 7, 14),   ('qft_4_mqt.py', 4, 14),   ('vqe_indep_6_mqt.py', 6, 14),   ('qft_3_vq.py', 3, 14),   ('adder_n7_vq.py', 7, 14),   ('tsp_indep_4_mqt.py', 4, 14),   ('qwalk-v-chain_3_mqt.py', 3, 14),   ('adder_n13_vq.py', 13, 14),   ('qft_4_mqt.py', 4, 14),   ('reversible_5_adder_vq.py', 11, 14),   ('adder_n4_vq.py', 4, 14),   ('su2random_4_mqt.py', 4, 14),   ('pe_3_mqt.py', 3, 14),   ('adder_n7_vq.py', 7, 14),   ('qft_6_mqt.py', 6, 14),   ('shor_mod21_mqt.py', 8, 14),   ('pe_5_mqt.py', 5, 14),   ('tsp_indep_5_mqt.py', 5, 14),   ('3_17tc_vq.py', 3, 14),   ('qft_3_vq.py', 3, 14),   ('kickback_qcraft.py', 4, 14),   ('qaoa_indep_3_mqt.py', 3, 14),   ('simon_qcraft.py', 6, 14),   ('6symd2_vq.py', 10, 14),   ('qaoa_indep_4_mqt.py', 4, 14),   ('adder_n4_vq.py', 4, 14),   ('adder_qcraft.py', 4, 14),   ('dj_indep_4_mqt.py', 4, 14),   ('kickback_qcraft.py', 4, 14), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 30
+
+Maquina utilizada: ibm_kingston --Qubits: 156--
+Cola Seleccionada: [  ('qaoa_indep_5_mqt.py', 5, 15),   ('adder_n16_vq.py', 16, 15),   ('pe_5_mqt.py', 5, 15),   ('bv_2_vq.py', 2, 15),   ('pe_6_mqt.py', 6, 15),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 15),   ('Deutsch-Jozsa_qcraft.py', 4, 15),   ('grover-v-chain_3_mqt.py', 3, 15),   ('adder_n7_vq.py', 7, 15),   ('pe_5_mqt.py', 5, 15),   ('qft_4_mqt.py', 4, 15),   ('dj_indep_7_mqt.py', 7, 15),   ('reversible_5_adder_vq.py', 11, 15),   ('vqe_indep_4_mqt.py', 4, 15),   ('qaoa_indep_4_mqt.py', 4, 15),   ('pe_3_mqt.py', 3, 15),   ('dj_indep_7_mqt.py', 7, 15),   ('tsp_indep_4_mqt.py', 4, 15),   ('bv_3_vq.py', 3, 15),   ('grover_3_vq.py', 3, 15),   ('pe_3_mqt.py', 3, 15),   ('qft_2_mqt.py', 2, 15),   ('kickback_qcraft.py', 4, 15),   ('pe_6_vq.py', 7, 15),   ('adder_qcraft.py', 4, 15),   ('vqe_indep_3_mqt.py', 3, 15),   ('bv_5_vq.py', 5, 15),   ('qft_2_mqt.py', 2, 15),   ('grover-noancilla_3_mqt.py', 3, 15), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 29
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('su2random_4_mqt.py', 4, 16),   ('pe_6_vq.py', 7, 16),   ('adder_n16_vq.py', 16, 16),   ('qaoa_indep_3_mqt.py', 3, 16),   ('tsp_indep_4_mqt.py', 4, 16),   ('pe_4_mqt.py', 4, 16),   ('qft_2_mqt.py', 2, 16),   ('grover_qcraft.py', 2, 16),   ('tsp_qcraft.py', 5, 16),   ('qwalk_qcraft.py', 3, 16),   ('pe_4_mqt.py', 4, 16),   ('qwalk-v-chain_3_mqt.py', 3, 16),   ('pe_3_mqt.py', 3, 16),   ('qft_3_mqt.py', 3, 16),   ('kickback_qcraft.py', 4, 16),   ('grover-noancilla_4_mqt.py', 4, 16),   ('shor_mod21_mqt.py', 8, 16),   ('grover_qcraft.py', 2, 16),   ('adder_n4_vq.py', 4, 16),   ('dj_indep_7_mqt.py', 7, 16),   ('pe_6_vq.py', 7, 16),   ('simon_qcraft.py', 6, 16),   ('shor_mod15_mqt.py', 5, 16),   ('qft_3_vq.py', 3, 16),   ('bv_14_vq.py', 14, 16),   ('simon_vq.py', 6, 16),   ('simon_vq.py', 6, 16),   ('grover-v-chain_3_mqt.py', 3, 16),   ('simon_vq.py', 6, 16),   ('pe_7_mqt.py', 7, 16), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 30
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('bv_5_vq.py', 5, 17),   ('tsp_qcraft.py', 5, 17),   ('pe_5_mqt.py', 5, 17),   ('phase_estimation_qcraft.py', 4, 17),   ('vqe_indep_6_mqt.py', 6, 17),   ('qwalk-v-chain_3_mqt.py', 3, 17),   ('grover_7_vq.py', 7, 17),   ('6symd2_vq.py', 10, 17),   ('vqe_indep_4_mqt.py', 4, 17),   ('qaoa_indep_3_mqt.py', 3, 17),   ('kickback_7_vq.py', 7, 17),   ('bv_14_vq.py', 14, 17),   ('grover_7_vq.py', 7, 17),   ('su2_5_vq.py', 4, 17),   ('qwalk-v-chain_5_mqt.py', 5, 17),   ('pe_7_mqt.py', 7, 17),   ('pe_5_mqt.py', 5, 17),   ('adder_n10_vq.py', 10, 17),   ('pe_7_mqt.py', 7, 17),   ('pe_6_vq.py', 7, 17),   ('bv_9_vq.py', 9, 17),   ('tsp_qcraft.py', 5, 17),   ('su2_5_vq.py', 4, 17),   ('adder_qcraft.py', 4, 17),   ('bv_9_vq.py', 9, 17), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 25
+
+Maquina utilizada: ibm_kingston --Qubits: 156--
+Cola Seleccionada: [  ('phase_estimation_qcraft.py', 4, 18),   ('adder_n4_vq.py', 4, 18),   ('qwalk_qcraft.py', 3, 18),   ('dj_indep_7_mqt.py', 7, 18),   ('dj_indep_7_mqt.py', 7, 18),   ('grover_7_vq.py', 7, 18),   ('pe_4_mqt.py', 4, 18),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 18),   ('bv_5_vq.py', 5, 18),   ('qft_7_vq.py', 7, 18),   ('qaoa_indep_4_mqt.py', 4, 18),   ('adder_n4_vq.py', 4, 18),   ('qaoa_indep_5_mqt.py', 5, 18),   ('grover_9_vq.py', 9, 18),   ('3_17tc_vq.py', 3, 18),   ('6symd2_vq.py', 10, 18),   ('qwalk-v-chain_3_mqt.py', 3, 18),   ('tsp_qcraft.py', 5, 18),   ('tsp_indep_4_mqt.py', 4, 18),   ('grover-noancilla_3_mqt.py', 3, 18),   ('bv_5_vq.py', 5, 18),   ('tsp_indep_5_mqt.py', 5, 18),   ('adder_n4_vq.py', 4, 18),   ('qwalk-v-chain_5_mqt.py', 5, 18),   ('grover_3_vq.py', 3, 18),   ('dj_indep_7_mqt.py', 7, 18),   ('bv_4_vq.py', 4, 18),   ('pe_5_mqt.py', 5, 18), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 28
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('qaoa_6_vq.py', 6, 19),   ('shor_mod21_mqt.py', 8, 19),   ('qaoa_6_vq.py', 6, 19),   ('qwalk-noancilla_3_mqt.py', 3, 19),   ('su2_5_vq.py', 4, 19),   ('su2_5_vq.py', 4, 19),   ('qaoa_6_vq.py', 6, 19),   ('tsp_indep_5_mqt.py', 5, 19),   ('qft_6_mqt.py', 6, 19),   ('bv_5_vq.py', 5, 19),   ('dj_indep_4_mqt.py', 4, 19),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 19),   ('6symd2_vq.py', 10, 19),   ('pe_3_mqt.py', 3, 19),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 19),   ('tsp_indep_5_mqt.py', 5, 19),   ('qwalk-v-chain_5_mqt.py', 5, 19),   ('shor_mod15_mqt.py', 5, 19),   ('vqe_indep_5_mqt.py', 5, 19),   ('grover_7_vq.py', 7, 19),   ('kickback_qcraft.py', 4, 19),   ('adder_qcraft.py', 4, 19),   ('qaoa_indep_4_mqt.py', 4, 19),   ('qft_3_mqt.py', 3, 19),   ('su2random_3_mqt.py', 3, 19), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 25
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 20),   ('qft_qcraft.py', 4, 20),   ('Deutsch-Jozsa_qcraft.py', 4, 20),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 20),   ('simon_qcraft.py', 6, 20),   ('qwalk_qcraft.py', 3, 20),   ('bv_2_vq.py', 2, 20),   ('qft_7_vq.py', 7, 20),   ('grover_3_vq.py', 3, 20),   ('bv_4_vq.py', 4, 20),   ('qft_7_vq.py', 7, 20),   ('adder_n4_vq.py', 4, 20),   ('qaoa_indep_4_mqt.py', 4, 20),   ('qwalk-v-chain_5_mqt.py', 5, 20),   ('bv_14_vq.py', 14, 20),   ('grover_3_vq.py', 3, 20),   ('simon_vq.py', 6, 20),   ('qaoa_6_vq.py', 6, 20),   ('shor_mod15_mqt.py', 5, 20),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 20),   ('qft_4_mqt.py', 4, 20),   ('su2random_4_mqt.py', 4, 20), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 22
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('reversible_5_adder_vq.py', 11, 21),   ('qft_4_mqt.py', 4, 21),   ('qft_2_mqt.py', 2, 21),   ('pe_2_vq.py', 3, 21),   ('qaoa_indep_3_mqt.py', 3, 21),   ('tsp_indep_4_mqt.py', 4, 21),   ('tsp_indep_5_mqt.py', 5, 21),   ('grover_qcraft.py', 2, 21),   ('qft_2_mqt.py', 2, 21),   ('qaoa_6_vq.py', 6, 21),   ('phase_estimation_qcraft.py', 4, 21),   ('tsp_qcraft.py', 5, 21),   ('pe_7_mqt.py', 7, 21),   ('vqe_indep_6_mqt.py', 6, 21),   ('vqe_indep_6_mqt.py', 6, 21),   ('tsp_indep_5_mqt.py', 5, 21),   ('qft_qcraft.py', 4, 21),   ('vqe_indep_5_mqt.py', 5, 21),   ('qaoa_indep_6_mqt.py', 6, 21),   ('adder_n16_vq.py', 16, 21),   ('shor_mod15_mqt.py', 5, 21),   ('bv_9_vq.py', 9, 21),   ('adder_qcraft.py', 4, 21),   ('tsp_indep_4_mqt.py', 4, 21),   ('qaoa_qcraft.py', 2, 21),   ('dj_indep_4_mqt.py', 4, 21),   ('grover_qcraft.py', 2, 21),   ('6symd2_vq.py', 10, 21),   ('simon_qcraft.py', 6, 21),   ('bernstein-vazirani_qcraft.py', 4, 21), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 30
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('qaoa_indep_6_mqt.py', 6, 22),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 22),   ('pe_5_mqt.py', 5, 22),   ('shor_qcraft.py', 4, 22),   ('su2random_3_mqt.py', 3, 22),   ('phase_estimation_qcraft.py', 4, 22),   ('pe_6_mqt.py', 6, 22),   ('reversible_5_adder_vq.py', 11, 22),   ('qft_qcraft.py', 4, 22),   ('qwalk-v-chain_3_mqt.py', 3, 22),   ('qaoa_qcraft.py', 2, 22),   ('grover-noancilla_4_mqt.py', 4, 22),   ('adder_n16_vq.py', 16, 22),   ('adder_n7_vq.py', 7, 22),   ('pe_5_mqt.py', 5, 22),   ('shor_qcraft.py', 4, 22),   ('qft_3_vq.py', 3, 22),   ('adder_n7_vq.py', 7, 22),   ('bv_5_vq.py', 5, 22),   ('grover_9_vq.py', 9, 22),   ('Deutsch-Jozsa_qcraft.py', 4, 22),   ('grover-v-chain_3_mqt.py', 3, 22),   ('su2random_4_mqt.py', 4, 22),   ('bv_14_vq.py', 14, 22),   ('3_17tc_vq.py', 3, 22), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 25
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('tsp_indep_4_mqt.py', 4, 23),   ('adder_qcraft.py', 4, 23),   ('pe_5_vq.py', 6, 23),   ('bernstein-vazirani_qcraft.py', 4, 23),   ('tsp_qcraft.py', 5, 23),   ('Deutsch-Jozsa_qcraft.py', 4, 23),   ('bv_4_vq.py', 4, 23),   ('grover_9_vq.py', 9, 23),   ('bv_9_vq.py', 9, 23),   ('qft_3_mqt.py', 3, 23),   ('shor_mod15_mqt.py', 5, 23),   ('dj_indep_14_mqt.py', 14, 23),   ('su2_5_vq.py', 4, 23),   ('su2random_4_mqt.py', 4, 23),   ('grover_3_vq.py', 3, 23),   ('bv_9_vq.py', 9, 23),   ('grover_7_vq.py', 7, 23),   ('pe_7_mqt.py', 7, 23),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 23),   ('grover-v-chain_4_mqt.py', 4, 23),   ('Deutsch-Jozsa_qcraft.py', 4, 23),   ('vqe_indep_4_mqt.py', 4, 23),   ('kickback_7_vq.py', 7, 23),   ('tsp_qcraft.py', 5, 23),   ('bv_5_vq.py', 5, 23),   ('qft_2_mqt.py', 2, 23), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 26
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('su2random_3_mqt.py', 3, 24),   ('adder_n7_vq.py', 7, 24),   ('3_17tc_vq.py', 3, 24),   ('su2random_3_mqt.py', 3, 24),   ('vqe_indep_4_mqt.py', 4, 24),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 24),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 24),   ('qft_6_mqt.py', 6, 24),   ('pe_5_mqt.py', 5, 24),   ('pe_3_mqt.py', 3, 24),   ('shor_mod15_mqt.py', 5, 24),   ('vqe_indep_5_mqt.py', 5, 24),   ('pe_5_mqt.py', 5, 24),   ('qaoa_indep_6_mqt.py', 6, 24),   ('pe_5_vq.py', 6, 24),   ('adder_n7_vq.py', 7, 24),   ('qaoa_indep_5_mqt.py', 5, 24),   ('qft_3_vq.py', 3, 24),   ('qwalk-v-chain_3_mqt.py', 3, 24),   ('qwalk_qcraft.py', 3, 24),   ('simon_qcraft.py', 6, 24),   ('kickback_7_vq.py', 7, 24),   ('dj_indep_7_mqt.py', 7, 24),   ('dj_indep_14_mqt.py', 14, 24), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 24
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 25),   ('qft_3_mqt.py', 3, 25),   ('pe_6_vq.py', 7, 25),   ('su2random_4_mqt.py', 4, 25),   ('su2random_3_mqt.py', 3, 25),   ('dj_indep_5_mqt.py', 5, 25),   ('vqe_indep_5_mqt.py', 5, 25),   ('vqe_indep_5_mqt.py', 5, 25),   ('adder_qcraft.py', 4, 25),   ('shor_mod21_mqt.py', 8, 25),   ('bv_2_vq.py', 2, 25),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 25),   ('bv_2_vq.py', 2, 25),   ('su2random_3_mqt.py', 3, 25),   ('qaoa_indep_5_mqt.py', 5, 25),   ('pe_5_vq.py', 6, 25),   ('qaoa_indep_4_mqt.py', 4, 25),   ('shor_mod21_mqt.py', 8, 25),   ('dj_indep_7_mqt.py', 7, 25),   ('qft_3_mqt.py', 3, 25),   ('qaoa_indep_4_mqt.py', 4, 25),   ('vqe_indep_3_mqt.py', 3, 25),   ('adder_n10_vq.py', 10, 25),   ('3_17tc_vq.py', 3, 25),   ('adder_n10_vq.py', 10, 25),   ('qft_2_mqt.py', 2, 25), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 26
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('grover-noancilla_3_mqt.py', 3, 26),   ('dj_indep_7_mqt.py', 7, 26),   ('qwalk-v-chain_5_mqt.py', 5, 26),   ('grover_7_vq.py', 7, 26),   ('adder_n10_vq.py', 10, 26),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 26),   ('su2_5_vq.py', 4, 26),   ('qaoa_6_vq.py', 6, 26),   ('tsp_qcraft.py', 5, 26),   ('6symd2_vq.py', 10, 26),   ('dj_indep_4_mqt.py', 4, 26),   ('Deutsch-Jozsa_qcraft.py', 4, 26),   ('adder_qcraft.py', 4, 26),   ('grover_qcraft.py', 2, 26),   ('pe_5_mqt.py', 5, 26),   ('shor_qcraft.py', 4, 26),   ('kickback_qcraft.py', 4, 26),   ('3_17tc_vq.py', 3, 26),   ('kickback_7_vq.py', 7, 26),   ('simon_vq.py', 6, 26),   ('adder_n4_vq.py', 4, 26),   ('bv_3_vq.py', 3, 26),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 26),   ('grover_qcraft.py', 2, 26),   ('bv_5_vq.py', 5, 26),   ('qft_2_mqt.py', 2, 26), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 26
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('qft_7_vq.py', 7, 27),   ('qwalk-v-chain_3_mqt.py', 3, 27),   ('qwalk-noancilla_3_mqt.py', 3, 27),   ('qaoa_indep_4_mqt.py', 4, 27),   ('dj_indep_5_mqt.py', 5, 27),   ('pe_5_mqt.py', 5, 27),   ('pe_7_mqt.py', 7, 27),   ('vqe_indep_4_mqt.py', 4, 27),   ('qaoa_indep_3_mqt.py', 3, 27),   ('bv_3_vq.py', 3, 27),   ('pe_7_mqt.py', 7, 27),   ('qaoa_indep_3_mqt.py', 3, 27),   ('qft_6_mqt.py', 6, 27),   ('qft_6_mqt.py', 6, 27),   ('bv_4_vq.py', 4, 27),   ('su2random_3_mqt.py', 3, 27),   ('dj_indep_14_mqt.py', 14, 27),   ('pe_6_vq.py', 7, 27),   ('qft_3_vq.py', 3, 27),   ('pe_5_vq.py', 6, 27),   ('simon_qcraft.py', 6, 27),   ('qft_4_mqt.py', 4, 27),   ('grover-v-chain_4_mqt.py', 4, 27),   ('vqe_indep_3_mqt.py', 3, 27),   ('qaoa_indep_4_mqt.py', 4, 27),   ('qwalk_qcraft.py', 3, 27),   ('qaoa_qcraft.py', 2, 27),   ('shor_mod21_mqt.py', 8, 27),   ('vqe_indep_6_mqt.py', 6, 27),   ('pe_4_mqt.py', 4, 27),   ('pe_3_mqt.py', 3, 27),   ('pe_5_mqt.py', 5, 27), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 32
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('shor_mod21_mqt.py', 8, 28),   ('pe_2_vq.py', 3, 28),   ('dj_indep_14_mqt.py', 14, 28),   ('adder_n4_vq.py', 4, 28),   ('pe_6_mqt.py', 6, 28),   ('tsp_indep_4_mqt.py', 4, 28),   ('grover_7_vq.py', 7, 28),   ('shor_qcraft.py', 4, 28),   ('adder_n4_vq.py', 4, 28),   ('qaoa_indep_4_mqt.py', 4, 28),   ('qwalk_qcraft.py', 3, 28),   ('phase_estimation_qcraft.py', 4, 28),   ('adder_qcraft.py', 4, 28),   ('qft_qcraft.py', 4, 28),   ('su2random_3_mqt.py', 3, 28),   ('qaoa_indep_6_mqt.py', 6, 28),   ('pe_2_vq.py', 3, 28),   ('adder_n16_vq.py', 16, 28),   ('su2random_4_mqt.py', 4, 28),   ('grover-noancilla_3_mqt.py', 3, 28),   ('qaoa_6_vq.py', 6, 28),   ('qaoa_6_vq.py', 6, 28),   ('qwalk_qcraft.py', 3, 28),   ('tsp_qcraft.py', 5, 28),   ('tsp_indep_4_mqt.py', 4, 28),   ('grover-noancilla_4_mqt.py', 4, 28),   ('phase_estimation_qcraft.py', 4, 28),   ('bv_4_vq.py', 4, 28),   ('bv_2_vq.py', 2, 28),   ('su2random_3_mqt.py', 3, 28),   ('tsp_indep_5_mqt.py', 5, 28),   ('qft_2_mqt.py', 2, 28), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 32
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 29),   ('reversible_5_adder_vq.py', 11, 29),   ('vqe_indep_4_mqt.py', 4, 29),   ('tsp_indep_5_mqt.py', 5, 29),   ('pe_5_mqt.py', 5, 29),   ('adder_n7_vq.py', 7, 29),   ('adder_qcraft.py', 4, 29),   ('pe_7_mqt.py', 7, 29),   ('qaoa_indep_6_mqt.py', 6, 29),   ('vqe_indep_6_mqt.py', 6, 29),   ('dj_indep_7_mqt.py', 7, 29),   ('vqe_indep_6_mqt.py', 6, 29),   ('qwalk-noancilla_3_mqt.py', 3, 29),   ('su2_5_vq.py', 4, 29),   ('adder_n7_vq.py', 7, 29),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 29),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 29),   ('pe_6_vq.py', 7, 29),   ('grover-noancilla_3_mqt.py', 3, 29),   ('qft_3_vq.py', 3, 29), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 20
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('simon_vq.py', 6, 30),   ('qaoa_6_vq.py', 6, 30),   ('bv_4_vq.py', 4, 30),   ('qwalk-noancilla_3_mqt.py', 3, 30),   ('3_17tc_vq.py', 3, 30),   ('pe_5_mqt.py', 5, 30),   ('grover_9_vq.py', 9, 30),   ('qft_4_mqt.py', 4, 30),   ('vqe_indep_3_mqt.py', 3, 30),   ('simon_vq.py', 6, 30),   ('pe_6_vq.py', 7, 30),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 30),   ('shor_mod15_mqt.py', 5, 30),   ('pe_3_mqt.py', 3, 30),   ('vqe_indep_4_mqt.py', 4, 30),   ('vqe_indep_5_mqt.py', 5, 30),   ('dj_indep_5_mqt.py', 5, 30),   ('su2random_3_mqt.py', 3, 30),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 30),   ('kickback_7_vq.py', 7, 30),   ('qaoa_indep_4_mqt.py', 4, 30),   ('su2_5_vq.py', 4, 30),   ('qft_2_mqt.py', 2, 30),   ('qwalk_qcraft.py', 3, 30),   ('su2random_4_mqt.py', 4, 30),   ('qft_3_vq.py', 3, 30),   ('vqe_indep_3_mqt.py', 3, 30),   ('grover-v-chain_4_mqt.py', 4, 30), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 28
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('kickback_qcraft.py', 4, 31),   ('qwalk-noancilla_3_mqt.py', 3, 31),   ('bv_5_vq.py', 5, 31),   ('grover_9_vq.py', 9, 31),   ('pe_7_mqt.py', 7, 31),   ('su2random_4_mqt.py', 4, 31),   ('adder_n13_vq.py', 13, 31),   ('adder_n16_vq.py', 16, 31),   ('tsp_indep_5_mqt.py', 5, 31),   ('bv_2_vq.py', 2, 31),   ('vqe_indep_3_mqt.py', 3, 31),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 31),   ('bv_5_vq.py', 5, 31),   ('su2random_4_mqt.py', 4, 31),   ('qft_4_mqt.py', 4, 31),   ('qwalk-noancilla_3_mqt.py', 3, 31),   ('phase_estimation_qcraft.py', 4, 31),   ('qaoa_indep_4_mqt.py', 4, 31),   ('pe_5_vq.py', 6, 31),   ('vqe_indep_5_mqt.py', 5, 31),   ('adder_n4_vq.py', 4, 31),   ('qft_7_vq.py', 7, 31),   ('qaoa_indep_5_mqt.py', 5, 31),   ('vqe_indep_6_mqt.py', 6, 31),   ('qaoa_6_vq.py', 6, 31),   ('bv_2_vq.py', 2, 31), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 26
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('reversible_5_adder_vq.py', 11, 32),   ('qwalk-noancilla_3_mqt.py', 3, 32),   ('qft_6_mqt.py', 6, 32),   ('qft_qcraft.py', 4, 32),   ('adder_n13_vq.py', 13, 32),   ('vqe_indep_6_mqt.py', 6, 32),   ('qaoa_indep_4_mqt.py', 4, 32),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 32),   ('pe_6_mqt.py', 6, 32),   ('shor_qcraft.py', 4, 32),   ('vqe_indep_3_mqt.py', 3, 32),   ('qft_3_mqt.py', 3, 32),   ('dj_indep_14_mqt.py', 14, 32),   ('bv_2_vq.py', 2, 32),   ('qft_3_vq.py', 3, 32),   ('grover-v-chain_4_mqt.py', 4, 32),   ('phase_estimation_qcraft.py', 4, 32),   ('qaoa_qcraft.py', 2, 32),   ('simon_vq.py', 6, 32),   ('shor_mod15_mqt.py', 5, 32),   ('pe_6_vq.py', 7, 32),   ('qaoa_6_vq.py', 6, 32),   ('grover-v-chain_3_mqt.py', 3, 32),   ('qft_3_mqt.py', 3, 32),   ('grover-v-chain_4_mqt.py', 4, 32),   ('bernstein-vazirani_qcraft.py', 4, 32),   ('shor_mod15_mqt.py', 5, 32), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 27
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('grover_7_vq.py', 7, 33),   ('pe_6_vq.py', 7, 33),   ('bv_9_vq.py', 9, 33),   ('qft_3_vq.py', 3, 33),   ('qaoa_6_vq.py', 6, 33),   ('qft_3_vq.py', 3, 33),   ('grover-noancilla_3_mqt.py', 3, 33),   ('tsp_qcraft.py', 5, 33),   ('su2_5_vq.py', 4, 33),   ('3_17tc_vq.py', 3, 33),   ('vqe_indep_3_mqt.py', 3, 33),   ('bv_9_vq.py', 9, 33),   ('qft_qcraft.py', 4, 33),   ('grover_qcraft.py', 2, 33),   ('tsp_indep_4_mqt.py', 4, 33),   ('reversible_5_adder_vq.py', 11, 33),   ('pe_6_mqt.py', 6, 33),   ('vqe_indep_5_mqt.py', 5, 33),   ('simon_qcraft.py', 6, 33),   ('kickback_qcraft.py', 4, 33),   ('dj_indep_5_mqt.py', 5, 33),   ('su2_5_vq.py', 4, 33),   ('grover_7_vq.py', 7, 33),   ('3_17tc_vq.py', 3, 33),   ('qft_qcraft.py', 4, 33),   ('bv_4_vq.py', 4, 33),   ('simon_qcraft.py', 6, 33),   ('grover_7_vq.py', 7, 33),   ('adder_n10_vq.py', 10, 33),   ('bv_2_vq.py', 2, 33), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 30
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('kickback_qcraft.py', 4, 34),   ('pe_5_mqt.py', 5, 34),   ('su2random_4_mqt.py', 4, 34),   ('pe_7_mqt.py', 7, 34),   ('vqe_indep_5_mqt.py', 5, 34),   ('6symd2_vq.py', 10, 34),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 34),   ('simon_vq.py', 6, 34),   ('qwalk-v-chain_3_mqt.py', 3, 34),   ('su2random_4_mqt.py', 4, 34),   ('qwalk_qcraft.py', 3, 34),   ('pe_3_mqt.py', 3, 34),   ('qft_7_vq.py', 7, 34),   ('qft_7_vq.py', 7, 34),   ('qft_4_mqt.py', 4, 34),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 34),   ('su2_5_vq.py', 4, 34),   ('bernstein-vazirani_qcraft.py', 4, 34),   ('3_17tc_vq.py', 3, 34),   ('su2_5_vq.py', 4, 34),   ('qaoa_indep_6_mqt.py', 6, 34),   ('vqe_indep_5_mqt.py', 5, 34),   ('qwalk-v-chain_3_mqt.py', 3, 34),   ('bv_4_vq.py', 4, 34),   ('qwalk-v-chain_5_mqt.py', 5, 34),   ('bv_3_vq.py', 3, 34),   ('3_17tc_vq.py', 3, 34), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 27
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 35),   ('reversible_5_adder_vq.py', 11, 35),   ('grover-v-chain_4_mqt.py', 4, 35),   ('shor_qcraft.py', 4, 35),   ('adder_n7_vq.py', 7, 35),   ('pe_3_mqt.py', 3, 35),   ('grover_qcraft.py', 2, 35),   ('shor_mod21_mqt.py', 8, 35),   ('dj_indep_7_mqt.py', 7, 35),   ('grover-v-chain_3_mqt.py', 3, 35),   ('pe_6_vq.py', 7, 35),   ('shor_mod15_mqt.py', 5, 35),   ('qft_3_mqt.py', 3, 35),   ('6symd2_vq.py', 10, 35),   ('3_17tc_vq.py', 3, 35),   ('qwalk-v-chain_3_mqt.py', 3, 35),   ('qaoa_6_vq.py', 6, 35),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 35),   ('vqe_indep_5_mqt.py', 5, 35),   ('qft_2_mqt.py', 2, 35),   ('pe_3_mqt.py', 3, 35),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 35), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 22
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('qft_6_mqt.py', 6, 36),   ('Deutsch-Jozsa_qcraft.py', 4, 36),   ('tsp_qcraft.py', 5, 36),   ('dj_indep_5_mqt.py', 5, 36),   ('tsp_indep_5_mqt.py', 5, 36),   ('bv_2_vq.py', 2, 36),   ('tsp_indep_5_mqt.py', 5, 36),   ('grover_qcraft.py', 2, 36),   ('qwalk-v-chain_5_mqt.py', 5, 36),   ('grover-v-chain_4_mqt.py', 4, 36),   ('vqe_indep_4_mqt.py', 4, 36),   ('Deutsch-Jozsa_qcraft.py', 4, 36),   ('adder_n4_vq.py', 4, 36),   ('grover_qcraft.py', 2, 36),   ('dj_indep_5_mqt.py', 5, 36),   ('adder_n10_vq.py', 10, 36),   ('qwalk-v-chain_5_mqt.py', 5, 36),   ('pe_2_vq.py', 3, 36),   ('pe_6_mqt.py', 6, 36),   ('shor_mod21_mqt.py', 8, 36),   ('Deutsch-Jozsa_qcraft.py', 4, 36),   ('qft_3_mqt.py', 3, 36),   ('qaoa_indep_6_mqt.py', 6, 36),   ('shor_mod21_mqt.py', 8, 36),   ('grover_3_vq.py', 3, 36),   ('bv_4_vq.py', 4, 36),   ('qaoa_indep_5_mqt.py', 5, 36),   ('qwalk_qcraft.py', 3, 36),   ('grover_9_vq.py', 9, 36),   ('bv_2_vq.py', 2, 36),   ('qaoa_qcraft.py', 2, 36),   ('bv_4_vq.py', 4, 36),   ('bv_5_vq.py', 5, 36),   ('qwalk_qcraft.py', 3, 36), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 34
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('tsp_qcraft.py', 5, 37),   ('dj_indep_14_mqt.py', 14, 37),   ('dj_indep_5_mqt.py', 5, 37),   ('phase_estimation_qcraft.py', 4, 37),   ('pe_7_mqt.py', 7, 37),   ('6symd2_vq.py', 10, 37),   ('kickback_7_vq.py', 7, 37),   ('qft_6_mqt.py', 6, 37),   ('grover-noancilla_3_mqt.py', 3, 37),   ('qwalk_qcraft.py', 3, 37),   ('qft_qcraft.py', 4, 37),   ('qft_4_mqt.py', 4, 37),   ('grover_7_vq.py', 7, 37),   ('3_17tc_vq.py', 3, 37),   ('phase_estimation_qcraft.py', 4, 37),   ('qft_6_mqt.py', 6, 37),   ('6symd2_vq.py', 10, 37),   ('dj_indep_5_mqt.py', 5, 37),   ('kickback_7_vq.py', 7, 37),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 37),   ('su2random_4_mqt.py', 4, 37),   ('dj_indep_14_mqt.py', 14, 37),   ('qwalk-noancilla_3_mqt.py', 3, 37), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 23
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('bv_5_vq.py', 5, 38),   ('qft_6_mqt.py', 6, 38),   ('adder_n13_vq.py', 13, 38),   ('tsp_indep_5_mqt.py', 5, 38),   ('pe_7_mqt.py', 7, 38),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 38),   ('qft_qcraft.py', 4, 38),   ('pe_6_mqt.py', 6, 38),   ('qaoa_indep_6_mqt.py', 6, 38),   ('pe_5_vq.py', 6, 38),   ('shor_qcraft.py', 4, 38),   ('shor_mod15_mqt.py', 5, 38),   ('grover_qcraft.py', 2, 38),   ('adder_qcraft.py', 4, 38),   ('pe_6_mqt.py', 6, 38),   ('dj_indep_7_mqt.py', 7, 38),   ('adder_n13_vq.py', 13, 38),   ('tsp_qcraft.py', 5, 38),   ('simon_vq.py', 6, 38),   ('pe_2_vq.py', 3, 38),   ('dj_indep_14_mqt.py', 14, 38),   ('grover_7_vq.py', 7, 38),   ('qft_2_mqt.py', 2, 38), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 23
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('su2random_3_mqt.py', 3, 39),   ('shor_mod21_mqt.py', 8, 39),   ('vqe_indep_4_mqt.py', 4, 39),   ('bernstein-vazirani_qcraft.py', 4, 39),   ('pe_6_vq.py', 7, 39),   ('bv_4_vq.py', 4, 39),   ('shor_qcraft.py', 4, 39),   ('bv_3_vq.py', 3, 39),   ('vqe_indep_4_mqt.py', 4, 39),   ('pe_5_mqt.py', 5, 39),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 39),   ('dj_indep_5_mqt.py', 5, 39),   ('grover_9_vq.py', 9, 39),   ('adder_n7_vq.py', 7, 39),   ('grover_9_vq.py', 9, 39),   ('tsp_indep_4_mqt.py', 4, 39),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 39),   ('pe_5_vq.py', 6, 39),   ('qwalk-v-chain_5_mqt.py', 5, 39),   ('adder_n16_vq.py', 16, 39),   ('tsp_qcraft.py', 5, 39),   ('bv_2_vq.py', 2, 39),   ('bv_2_vq.py', 2, 39), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 23
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('grover_7_vq.py', 7, 40),   ('adder_qcraft.py', 4, 40),   ('grover-noancilla_4_mqt.py', 4, 40),   ('bv_5_vq.py', 5, 40),   ('adder_qcraft.py', 4, 40),   ('su2random_3_mqt.py', 3, 40),   ('pe_6_mqt.py', 6, 40),   ('pe_6_mqt.py', 6, 40),   ('simon_qcraft.py', 6, 40),   ('qft_4_mqt.py', 4, 40),   ('su2_5_vq.py', 4, 40),   ('bv_4_vq.py', 4, 40),   ('pe_6_mqt.py', 6, 40),   ('vqe_indep_6_mqt.py', 6, 40),   ('grover_qcraft.py', 2, 40),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 40),   ('tsp_qcraft.py', 5, 40),   ('dj_indep_4_mqt.py', 4, 40),   ('pe_5_vq.py', 6, 40),   ('pe_6_mqt.py', 6, 40),   ('qwalk_qcraft.py', 3, 40),   ('qft_4_mqt.py', 4, 40),   ('grover_qcraft.py', 2, 40),   ('bv_14_vq.py', 14, 40),   ('grover-noancilla_4_mqt.py', 4, 40),   ('3_17tc_vq.py', 3, 40),   ('phase_estimation_qcraft.py', 4, 40),   ('qwalk-v-chain_3_mqt.py', 3, 40),   ('pe_3_mqt.py', 3, 40),   ('grover_qcraft.py', 2, 40),   ('qft_2_mqt.py', 2, 40), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 31
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('adder_n13_vq.py', 13, 41),   ('6symd2_vq.py', 10, 41),   ('kickback_7_vq.py', 7, 41),   ('grover-noancilla_3_mqt.py', 3, 41),   ('shor_mod21_mqt.py', 8, 41),   ('adder_n16_vq.py', 16, 41),   ('su2random_3_mqt.py', 3, 41),   ('simon_qcraft.py', 6, 41),   ('qft_qcraft.py', 4, 41),   ('3_17tc_vq.py', 3, 41),   ('pe_5_mqt.py', 5, 41),   ('grover-noancilla_3_mqt.py', 3, 41),   ('qaoa_indep_5_mqt.py', 5, 41),   ('grover-noancilla_3_mqt.py', 3, 41),   ('grover-v-chain_4_mqt.py', 4, 41),   ('adder_n16_vq.py', 16, 41),   ('shor_mod15_mqt.py', 5, 41),   ('pe_5_mqt.py', 5, 41),   ('qaoa_indep_5_mqt.py', 5, 41),   ('vqe_indep_6_mqt.py', 6, 41),   ('tsp_indep_5_mqt.py', 5, 41),   ('grover_7_vq.py', 7, 41),   ('su2random_3_mqt.py', 3, 41),   ('dj_indep_4_mqt.py', 4, 41),   ('grover-noancilla_3_mqt.py', 3, 41),   ('3_17tc_vq.py', 3, 41), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 26
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('qwalk-v-chain_3_mqt.py', 3, 42),   ('vqe_indep_6_mqt.py', 6, 42),   ('Deutsch-Jozsa_qcraft.py', 4, 42),   ('phase_estimation_qcraft.py', 4, 42),   ('qaoa_indep_3_mqt.py', 3, 42),   ('tsp_indep_5_mqt.py', 5, 42),   ('grover-v-chain_3_mqt.py', 3, 42),   ('pe_6_vq.py', 7, 42),   ('pe_5_vq.py', 6, 42),   ('qwalk-noancilla_3_mqt.py', 3, 42),   ('dj_indep_14_mqt.py', 14, 42),   ('adder_n16_vq.py', 16, 42),   ('bv_14_vq.py', 14, 42),   ('grover_7_vq.py', 7, 42),   ('pe_3_mqt.py', 3, 42),   ('reversible_5_adder_vq.py', 11, 42),   ('adder_n7_vq.py', 7, 42),   ('adder_n4_vq.py', 4, 42),   ('vqe_indep_3_mqt.py', 3, 42),   ('qft_qcraft.py', 4, 42),   ('simon_vq.py', 6, 42),   ('qft_3_vq.py', 3, 42),   ('tsp_indep_5_mqt.py', 5, 42),   ('3_17tc_vq.py', 3, 42),   ('3_17tc_vq.py', 3, 42),   ('simon_qcraft.py', 6, 42),   ('grover_3_vq.py', 3, 42), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 27
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 43),   ('pe_7_mqt.py', 7, 43),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 43),   ('grover_7_vq.py', 7, 43),   ('shor_mod15_mqt.py', 5, 43),   ('reversible_5_adder_vq.py', 11, 43),   ('qaoa_6_vq.py', 6, 43),   ('grover-v-chain_4_mqt.py', 4, 43),   ('dj_indep_5_mqt.py', 5, 43),   ('su2random_4_mqt.py', 4, 43),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 43),   ('su2random_4_mqt.py', 4, 43),   ('qaoa_indep_4_mqt.py', 4, 43),   ('adder_qcraft.py', 4, 43),   ('dj_indep_7_mqt.py', 7, 43),   ('qaoa_6_vq.py', 6, 43),   ('qwalk-v-chain_5_mqt.py', 5, 43),   ('pe_6_vq.py', 7, 43),   ('qwalk-v-chain_5_mqt.py', 5, 43),   ('qft_3_mqt.py', 3, 43),   ('grover_qcraft.py', 2, 43), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 21
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('qwalk-v-chain_5_mqt.py', 5, 44),   ('kickback_7_vq.py', 7, 44),   ('pe_5_mqt.py', 5, 44),   ('vqe_indep_5_mqt.py', 5, 44),   ('qaoa_6_vq.py', 6, 44),   ('tsp_indep_4_mqt.py', 4, 44),   ('adder_n10_vq.py', 10, 44),   ('tsp_indep_4_mqt.py', 4, 44),   ('Deutsch-Jozsa_qcraft.py', 4, 44),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 44),   ('dj_indep_4_mqt.py', 4, 44),   ('6symd2_vq.py', 10, 44),   ('qwalk_qcraft.py', 3, 44),   ('tsp_indep_4_mqt.py', 4, 44),   ('shor_mod21_mqt.py', 8, 44),   ('grover-noancilla_4_mqt.py', 4, 44),   ('vqe_indep_6_mqt.py', 6, 44),   ('qft_4_mqt.py', 4, 44),   ('qft_6_mqt.py', 6, 44),   ('6symd2_vq.py', 10, 44),   ('bv_9_vq.py', 9, 44),   ('tsp_indep_4_mqt.py', 4, 44),   ('qwalk-noancilla_3_mqt.py', 3, 44),   ('qwalk-v-chain_3_mqt.py', 3, 44),   ('pe_7_mqt.py', 7, 44), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 25
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('grover_9_vq.py', 9, 45),   ('adder_n4_vq.py', 4, 45),   ('qaoa_6_vq.py', 6, 45),   ('grover-v-chain_4_mqt.py', 4, 45),   ('pe_6_vq.py', 7, 45),   ('kickback_qcraft.py', 4, 45),   ('qft_qcraft.py', 4, 45),   ('qaoa_indep_6_mqt.py', 6, 45),   ('adder_n10_vq.py', 10, 45),   ('phase_estimation_qcraft.py', 4, 45),   ('qwalk-noancilla_3_mqt.py', 3, 45),   ('shor_mod21_mqt.py', 8, 45),   ('qft_3_mqt.py', 3, 45),   ('pe_6_vq.py', 7, 45),   ('pe_2_vq.py', 3, 45),   ('phase_estimation_qcraft.py', 4, 45),   ('3_17tc_vq.py', 3, 45),   ('shor_mod15_mqt.py', 5, 45),   ('vqe_indep_4_mqt.py', 4, 45),   ('qft_6_mqt.py', 6, 45),   ('dj_indep_5_mqt.py', 5, 45),   ('pe_6_vq.py', 7, 45),   ('grover-v-chain_4_mqt.py', 4, 45),   ('pe_6_mqt.py', 6, 45),   ('6symd2_vq.py', 10, 45),   ('qft_2_mqt.py', 2, 45),   ('tsp_qcraft.py', 5, 45),   ('pe_4_mqt.py', 4, 45),   ('qaoa_indep_5_mqt.py', 5, 45),   ('kickback_qcraft.py', 4, 45), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 30
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('grover-v-chain_3_mqt.py', 3, 46),   ('pe_6_vq.py', 7, 46),   ('pe_4_mqt.py', 4, 46),   ('grover-noancilla_4_mqt.py', 4, 46),   ('simon_qcraft.py', 6, 46),   ('qaoa_6_vq.py', 6, 46),   ('qaoa_6_vq.py', 6, 46),   ('pe_2_vq.py', 3, 46),   ('qaoa_6_vq.py', 6, 46),   ('su2random_4_mqt.py', 4, 46),   ('kickback_qcraft.py', 4, 46),   ('qft_qcraft.py', 4, 46),   ('tsp_indep_4_mqt.py', 4, 46),   ('pe_2_vq.py', 3, 46),   ('qft_4_mqt.py', 4, 46),   ('su2_5_vq.py', 4, 46),   ('grover_3_vq.py', 3, 46),   ('adder_n7_vq.py', 7, 46),   ('shor_qcraft.py', 4, 46),   ('su2random_3_mqt.py', 3, 46),   ('pe_2_vq.py', 3, 46),   ('phase_estimation_qcraft.py', 4, 46),   ('bv_3_vq.py', 3, 46),   ('qft_7_vq.py', 7, 46),   ('qft_3_vq.py', 3, 46),   ('qwalk-v-chain_5_mqt.py', 5, 46),   ('pe_5_vq.py', 6, 46),   ('su2_5_vq.py', 4, 46),   ('grover-noancilla_3_mqt.py', 3, 46),   ('grover-v-chain_3_mqt.py', 3, 46),   ('pe_5_vq.py', 6, 46),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 46), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 32
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('dj_indep_5_mqt.py', 5, 47),   ('adder_n13_vq.py', 13, 47),   ('pe_5_mqt.py', 5, 47),   ('grover-v-chain_3_mqt.py', 3, 47),   ('adder_qcraft.py', 4, 47),   ('Deutsch-Jozsa_qcraft.py', 4, 47),   ('grover_qcraft.py', 2, 47),   ('qft_3_vq.py', 3, 47),   ('grover_3_vq.py', 3, 47),   ('bv_4_vq.py', 4, 47),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 47),   ('3_17tc_vq.py', 3, 47),   ('tsp_qcraft.py', 5, 47),   ('shor_mod21_mqt.py', 8, 47),   ('vqe_indep_3_mqt.py', 3, 47),   ('pe_3_mqt.py', 3, 47),   ('3_17tc_vq.py', 3, 47),   ('vqe_indep_4_mqt.py', 4, 47),   ('grover_qcraft.py', 2, 47),   ('qwalk_qcraft.py', 3, 47),   ('qwalk-noancilla_3_mqt.py', 3, 47),   ('adder_qcraft.py', 4, 47),   ('su2random_4_mqt.py', 4, 47),   ('vqe_indep_3_mqt.py', 3, 47),   ('grover_qcraft.py', 2, 47),   ('shor_qcraft.py', 4, 47),   ('grover-v-chain_3_mqt.py', 3, 47),   ('Deutsch-Jozsa_qcraft.py', 4, 47),   ('su2_5_vq.py', 4, 47),   ('grover_9_vq.py', 9, 47),   ('pe_6_vq.py', 7, 47),   ('pe_3_mqt.py', 3, 47),   ('grover_qcraft.py', 2, 47),   ('bv_4_vq.py', 4, 47), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 34
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('bv_5_vq.py', 5, 48),   ('vqe_indep_4_mqt.py', 4, 48),   ('tsp_qcraft.py', 5, 48),   ('grover_qcraft.py', 2, 48),   ('adder_n7_vq.py', 7, 48),   ('dj_indep_4_mqt.py', 4, 48),   ('dj_indep_14_mqt.py', 14, 48),   ('bv_5_vq.py', 5, 48),   ('3_17tc_vq.py', 3, 48),   ('qaoa_indep_3_mqt.py', 3, 48),   ('qwalk-v-chain_5_mqt.py', 5, 48),   ('Deutsch-Jozsa_qcraft.py', 4, 48),   ('su2random_3_mqt.py', 3, 48),   ('adder_n13_vq.py', 13, 48),   ('bv_4_vq.py', 4, 48),   ('simon_vq.py', 6, 48),   ('qft_6_mqt.py', 6, 48),   ('qft_2_mqt.py', 2, 48),   ('adder_n10_vq.py', 10, 48),   ('grover-noancilla_4_mqt.py', 4, 48),   ('bv_9_vq.py', 9, 48),   ('qft_4_mqt.py', 4, 48),   ('qaoa_indep_6_mqt.py', 6, 48),   ('qft_3_mqt.py', 3, 48),   ('qaoa_indep_4_mqt.py', 4, 48),   ('adder_n10_vq.py', 10, 48),   ('tsp_qcraft.py', 5, 48),   ('bernstein-vazirani_qcraft.py', 4, 48),   ('qaoa_qcraft.py', 2, 48), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 29
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('dj_indep_14_mqt.py', 14, 49),   ('shor_qcraft.py', 4, 49),   ('bv_4_vq.py', 4, 49),   ('grover-noancilla_4_mqt.py', 4, 49),   ('adder_qcraft.py', 4, 49),   ('qwalk-noancilla_3_mqt.py', 3, 49),   ('pe_6_mqt.py', 6, 49),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 49),   ('reversible_5_adder_vq.py', 11, 49),   ('qaoa_indep_4_mqt.py', 4, 49),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 49),   ('bv_3_vq.py', 3, 49),   ('grover_qcraft.py', 2, 49),   ('qaoa_6_vq.py', 6, 49),   ('pe_4_mqt.py', 4, 49),   ('su2_5_vq.py', 4, 49),   ('dj_indep_14_mqt.py', 14, 49),   ('dj_indep_5_mqt.py', 5, 49),   ('qft_7_vq.py', 7, 49),   ('adder_qcraft.py', 4, 49),   ('grover_3_vq.py', 3, 49),   ('grover_qcraft.py', 2, 49),   ('grover-noancilla_4_mqt.py', 4, 49),   ('qwalk_qcraft.py', 3, 49), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 24
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('adder_n16_vq.py', 16, 50),   ('dj_indep_7_mqt.py', 7, 50),   ('qaoa_indep_5_mqt.py', 5, 50),   ('kickback_7_vq.py', 7, 50),   ('3_17tc_vq.py', 3, 50),   ('tsp_qcraft.py', 5, 50),   ('qaoa_indep_4_mqt.py', 4, 50),   ('grover-noancilla_3_mqt.py', 3, 50),   ('grover-noancilla_4_mqt.py', 4, 50),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 50),   ('grover_7_vq.py', 7, 50),   ('qft_qcraft.py', 4, 50),   ('qaoa_indep_4_mqt.py', 4, 50),   ('qwalk-noancilla_3_mqt.py', 3, 50),   ('adder_n13_vq.py', 13, 50),   ('shor_qcraft.py', 4, 50),   ('qft_3_mqt.py', 3, 50),   ('dj_indep_5_mqt.py', 5, 50),   ('pe_6_vq.py', 7, 50),   ('grover_7_vq.py', 7, 50),   ('tsp_qcraft.py', 5, 50),   ('vqe_indep_4_mqt.py', 4, 50),   ('kickback_7_vq.py', 7, 50),   ('qft_3_vq.py', 3, 50),   ('su2_5_vq.py', 4, 50),   ('qft_2_mqt.py', 2, 50), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 26
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('dj_indep_14_mqt.py', 14, 51),   ('qwalk_qcraft.py', 3, 51),   ('qaoa_indep_3_mqt.py', 3, 51),   ('vqe_indep_3_mqt.py', 3, 51),   ('qft_qcraft.py', 4, 51),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 51),   ('pe_5_mqt.py', 5, 51),   ('reversible_5_adder_vq.py', 11, 51),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 51),   ('qaoa_indep_3_mqt.py', 3, 51),   ('su2_5_vq.py', 4, 51),   ('grover-noancilla_3_mqt.py', 3, 51),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 51),   ('simon_vq.py', 6, 51),   ('Deutsch-Jozsa_qcraft.py', 4, 51),   ('simon_vq.py', 6, 51),   ('kickback_7_vq.py', 7, 51),   ('qwalk-v-chain_5_mqt.py', 5, 51),   ('pe_7_mqt.py', 7, 51),   ('qft_6_mqt.py', 6, 51),   ('bv_2_vq.py', 2, 51), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 21
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('bernstein-vazirani_qcraft.py', 4, 52),   ('shor_mod21_mqt.py', 8, 52),   ('adder_qcraft.py', 4, 52),   ('kickback_qcraft.py', 4, 52),   ('qft_4_mqt.py', 4, 52),   ('su2random_3_mqt.py', 3, 52),   ('qaoa_indep_5_mqt.py', 5, 52),   ('Deutsch-Jozsa_qcraft.py', 4, 52),   ('pe_6_vq.py', 7, 52),   ('6symd2_vq.py', 10, 52),   ('adder_n7_vq.py', 7, 52),   ('adder_n4_vq.py', 4, 52),   ('qft_7_vq.py', 7, 52),   ('adder_n13_vq.py', 13, 52),   ('vqe_indep_4_mqt.py', 4, 52),   ('pe_2_vq.py', 3, 52),   ('grover_3_vq.py', 3, 52),   ('grover-noancilla_4_mqt.py', 4, 52),   ('reversible_5_adder_vq.py', 11, 52),   ('Deutsch-Jozsa_qcraft.py', 4, 52),   ('qaoa_indep_4_mqt.py', 4, 52),   ('vqe_indep_3_mqt.py', 3, 52),   ('bv_2_vq.py', 2, 52),   ('adder_n13_vq.py', 13, 52),   ('kickback_qcraft.py', 4, 52),   ('vqe_indep_3_mqt.py', 3, 52),   ('bv_5_vq.py', 5, 52),   ('su2random_3_mqt.py', 3, 52),   ('adder_n4_vq.py', 4, 52),   ('qft_2_mqt.py', 2, 52), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 30
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('dj_indep_14_mqt.py', 14, 53),   ('adder_qcraft.py', 4, 53),   ('bernstein-vazirani_qcraft.py', 4, 53),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 53),   ('kickback_7_vq.py', 7, 53),   ('reversible_5_adder_vq.py', 11, 53),   ('su2random_3_mqt.py', 3, 53),   ('pe_5_vq.py', 6, 53),   ('bv_3_vq.py', 3, 53),   ('pe_6_mqt.py', 6, 53),   ('grover_3_vq.py', 3, 53),   ('bv_9_vq.py', 9, 53),   ('pe_5_mqt.py', 5, 53),   ('shor_mod21_mqt.py', 8, 53),   ('shor_qcraft.py', 4, 53),   ('grover-noancilla_3_mqt.py', 3, 53),   ('grover-v-chain_4_mqt.py', 4, 53),   ('bv_9_vq.py', 9, 53),   ('reversible_5_adder_vq.py', 11, 53),   ('qft_qcraft.py', 4, 53),   ('bv_2_vq.py', 2, 53),   ('qft_7_vq.py', 7, 53),   ('shor_qcraft.py', 4, 53),   ('qft_qcraft.py', 4, 53), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 24
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('qaoa_indep_6_mqt.py', 6, 54),   ('tsp_indep_4_mqt.py', 4, 54),   ('qaoa_indep_5_mqt.py', 5, 54),   ('adder_n13_vq.py', 13, 54),   ('pe_6_vq.py', 7, 54),   ('reversible_5_adder_vq.py', 11, 54),   ('qaoa_indep_4_mqt.py', 4, 54),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 54),   ('bv_2_vq.py', 2, 54),   ('tsp_qcraft.py', 5, 54),   ('dj_indep_14_mqt.py', 14, 54),   ('qft_4_mqt.py', 4, 54),   ('adder_n16_vq.py', 16, 54),   ('pe_6_vq.py', 7, 54),   ('qwalk-v-chain_5_mqt.py', 5, 54),   ('Deutsch-Jozsa_qcraft.py', 4, 54),   ('qaoa_indep_5_mqt.py', 5, 54),   ('qft_6_mqt.py', 6, 54),   ('pe_6_vq.py', 7, 54),   ('qft_3_mqt.py', 3, 54),   ('dj_indep_4_mqt.py', 4, 54),   ('bv_3_vq.py', 3, 54), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 22
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 55),   ('tsp_qcraft.py', 5, 55),   ('qwalk-v-chain_5_mqt.py', 5, 55),   ('grover-v-chain_3_mqt.py', 3, 55),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 55),   ('pe_6_mqt.py', 6, 55),   ('su2random_3_mqt.py', 3, 55),   ('dj_indep_14_mqt.py', 14, 55),   ('su2_5_vq.py', 4, 55),   ('adder_n7_vq.py', 7, 55),   ('phase_estimation_qcraft.py', 4, 55),   ('qft_3_mqt.py', 3, 55),   ('qaoa_6_vq.py', 6, 55),   ('adder_n4_vq.py', 4, 55),   ('qft_4_mqt.py', 4, 55),   ('bv_5_vq.py', 5, 55),   ('qwalk_qcraft.py', 3, 55),   ('pe_3_mqt.py', 3, 55),   ('tsp_indep_5_mqt.py', 5, 55),   ('shor_mod21_mqt.py', 8, 55),   ('su2random_3_mqt.py', 3, 55),   ('qwalk-v-chain_5_mqt.py', 5, 55),   ('dj_indep_14_mqt.py', 14, 55),   ('qft_2_mqt.py', 2, 55), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 24
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 56),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 56),   ('qft_7_vq.py', 7, 56),   ('qft_4_mqt.py', 4, 56),   ('dj_indep_5_mqt.py', 5, 56),   ('6symd2_vq.py', 10, 56),   ('su2random_4_mqt.py', 4, 56),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 56),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 56),   ('su2_5_vq.py', 4, 56),   ('grover-v-chain_3_mqt.py', 3, 56),   ('grover_7_vq.py', 7, 56),   ('grover_7_vq.py', 7, 56),   ('qwalk_qcraft.py', 3, 56),   ('simon_qcraft.py', 6, 56),   ('shor_mod21_mqt.py', 8, 56),   ('su2_5_vq.py', 4, 56),   ('qft_qcraft.py', 4, 56), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 18
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('qft_6_mqt.py', 6, 57),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 57),   ('dj_indep_5_mqt.py', 5, 57),   ('vqe_indep_4_mqt.py', 4, 57),   ('dj_indep_7_mqt.py', 7, 57),   ('simon_vq.py', 6, 57),   ('qft_7_vq.py', 7, 57),   ('6symd2_vq.py', 10, 57),   ('grover-v-chain_4_mqt.py', 4, 57),   ('vqe_indep_6_mqt.py', 6, 57),   ('grover-noancilla_3_mqt.py', 3, 57),   ('qwalk_qcraft.py', 3, 57),   ('grover_9_vq.py', 9, 57),   ('pe_5_mqt.py', 5, 57),   ('qaoa_6_vq.py', 6, 57),   ('grover_7_vq.py', 7, 57),   ('dj_indep_14_mqt.py', 14, 57),   ('adder_n4_vq.py', 4, 57),   ('tsp_qcraft.py', 5, 57),   ('dj_indep_5_mqt.py', 5, 57),   ('adder_qcraft.py', 4, 57),   ('pe_4_mqt.py', 4, 57),   ('phase_estimation_qcraft.py', 4, 57),   ('shor_mod21_mqt.py', 8, 57), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 24
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('tsp_indep_5_mqt.py', 5, 58),   ('su2random_4_mqt.py', 4, 58),   ('3_17tc_vq.py', 3, 58),   ('bv_3_vq.py', 3, 58),   ('qaoa_indep_4_mqt.py', 4, 58),   ('tsp_qcraft.py', 5, 58),   ('qft_3_vq.py', 3, 58),   ('3_17tc_vq.py', 3, 58),   ('pe_4_mqt.py', 4, 58),   ('bernstein-vazirani_qcraft.py', 4, 58),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 58),   ('grover-v-chain_4_mqt.py', 4, 58),   ('grover-v-chain_3_mqt.py', 3, 58),   ('bv_14_vq.py', 14, 58),   ('bv_3_vq.py', 3, 58),   ('su2random_3_mqt.py', 3, 58),   ('3_17tc_vq.py', 3, 58),   ('pe_6_vq.py', 7, 58),   ('pe_5_vq.py', 6, 58),   ('qft_7_vq.py', 7, 58),   ('bv_4_vq.py', 4, 58),   ('pe_5_vq.py', 6, 58),   ('bv_9_vq.py', 9, 58),   ('kickback_qcraft.py', 4, 58),   ('dj_indep_5_mqt.py', 5, 58),   ('grover_9_vq.py', 9, 58),   ('reversible_5_adder_vq.py', 11, 58), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 27
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('bv_5_vq.py', 5, 59),   ('adder_n13_vq.py', 13, 59),   ('grover_7_vq.py', 7, 59),   ('pe_7_mqt.py', 7, 59),   ('shor_qcraft.py', 4, 59),   ('qwalk-v-chain_5_mqt.py', 5, 59),   ('adder_n7_vq.py', 7, 59),   ('grover_qcraft.py', 2, 59),   ('pe_5_mqt.py', 5, 59),   ('qft_3_vq.py', 3, 59),   ('qaoa_indep_3_mqt.py', 3, 59),   ('qwalk_qcraft.py', 3, 59),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 59),   ('bv_5_vq.py', 5, 59),   ('bv_2_vq.py', 2, 59),   ('grover_7_vq.py', 7, 59),   ('vqe_indep_6_mqt.py', 6, 59),   ('tsp_qcraft.py', 5, 59),   ('qaoa_indep_3_mqt.py', 3, 59),   ('pe_3_mqt.py', 3, 59),   ('vqe_indep_5_mqt.py', 5, 59),   ('pe_7_mqt.py', 7, 59),   ('bv_4_vq.py', 4, 59),   ('pe_6_mqt.py', 6, 59),   ('qaoa_6_vq.py', 6, 59),   ('bv_2_vq.py', 2, 59),   ('pe_6_vq.py', 7, 59),   ('qft_3_vq.py', 3, 59), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 28
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('dj_indep_5_mqt.py', 5, 60),   ('qaoa_indep_5_mqt.py', 5, 60),   ('6symd2_vq.py', 10, 60),   ('qft_3_vq.py', 3, 60),   ('adder_qcraft.py', 4, 60),   ('qwalk_qcraft.py', 3, 60),   ('bv_9_vq.py', 9, 60),   ('simon_vq.py', 6, 60),   ('grover_3_vq.py', 3, 60),   ('adder_n10_vq.py', 10, 60),   ('qaoa_indep_3_mqt.py', 3, 60),   ('adder_n13_vq.py', 13, 60),   ('shor_qcraft.py', 4, 60),   ('bv_4_vq.py', 4, 60),   ('qft_6_mqt.py', 6, 60),   ('su2_5_vq.py', 4, 60),   ('qft_2_mqt.py', 2, 60),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 60),   ('pe_6_vq.py', 7, 60),   ('pe_6_mqt.py', 6, 60),   ('bv_5_vq.py', 5, 60),   ('adder_n4_vq.py', 4, 60),   ('kickback_7_vq.py', 7, 60),   ('grover_7_vq.py', 7, 60),   ('pe_5_vq.py', 6, 60), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 25
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('adder_n13_vq.py', 13, 61),   ('qaoa_indep_4_mqt.py', 4, 61),   ('adder_n13_vq.py', 13, 61),   ('tsp_qcraft.py', 5, 61),   ('su2random_3_mqt.py', 3, 61),   ('qaoa_indep_4_mqt.py', 4, 61),   ('qwalk_qcraft.py', 3, 61),   ('grover_3_vq.py', 3, 61),   ('3_17tc_vq.py', 3, 61),   ('bv_3_vq.py', 3, 61),   ('vqe_indep_6_mqt.py', 6, 61),   ('grover_9_vq.py', 9, 61),   ('adder_n7_vq.py', 7, 61),   ('bv_4_vq.py', 4, 61),   ('pe_6_mqt.py', 6, 61),   ('grover-v-chain_3_mqt.py', 3, 61),   ('pe_4_mqt.py', 4, 61),   ('bv_14_vq.py', 14, 61),   ('su2_5_vq.py', 4, 61),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 61),   ('grover_7_vq.py', 7, 61),   ('pe_2_vq.py', 3, 61),   ('adder_n13_vq.py', 13, 61),   ('bv_2_vq.py', 2, 61), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 24
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('qwalk_qcraft.py', 3, 62),   ('pe_6_vq.py', 7, 62),   ('grover-noancilla_4_mqt.py', 4, 62),   ('qaoa_indep_3_mqt.py', 3, 62),   ('tsp_indep_5_mqt.py', 5, 62),   ('shor_mod21_mqt.py', 8, 62),   ('qaoa_indep_6_mqt.py', 6, 62),   ('grover-noancilla_3_mqt.py', 3, 62),   ('grover_3_vq.py', 3, 62),   ('pe_5_mqt.py', 5, 62),   ('tsp_qcraft.py', 5, 62),   ('pe_5_vq.py', 6, 62),   ('grover-noancilla_3_mqt.py', 3, 62),   ('adder_n10_vq.py', 10, 62),   ('qft_3_mqt.py', 3, 62),   ('adder_n4_vq.py', 4, 62),   ('pe_5_vq.py', 6, 62),   ('pe_6_vq.py', 7, 62),   ('reversible_5_adder_vq.py', 11, 62),   ('grover-v-chain_4_mqt.py', 4, 62),   ('adder_n7_vq.py', 7, 62),   ('simon_vq.py', 6, 62),   ('bv_9_vq.py', 9, 62),   ('bv_3_vq.py', 3, 62),   ('adder_qcraft.py', 4, 62),   ('adder_n13_vq.py', 13, 62),   ('grover-noancilla_4_mqt.py', 4, 62),   ('qft_qcraft.py', 4, 62), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 28
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('adder_n7_vq.py', 7, 63),   ('bv_14_vq.py', 14, 63),   ('grover-noancilla_3_mqt.py', 3, 63),   ('pe_2_vq.py', 3, 63),   ('grover-noancilla_4_mqt.py', 4, 63),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 63),   ('qwalk-v-chain_5_mqt.py', 5, 63),   ('grover_7_vq.py', 7, 63),   ('vqe_indep_5_mqt.py', 5, 63),   ('qft_7_vq.py', 7, 63),   ('grover_3_vq.py', 3, 63),   ('bv_4_vq.py', 4, 63),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 63),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 63),   ('vqe_indep_5_mqt.py', 5, 63),   ('qaoa_indep_4_mqt.py', 4, 63),   ('qft_3_mqt.py', 3, 63),   ('Deutsch-Jozsa_qcraft.py', 4, 63),   ('bv_5_vq.py', 5, 63),   ('adder_n13_vq.py', 13, 63), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 20
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('adder_n16_vq.py', 16, 64),   ('6symd2_vq.py', 10, 64),   ('simon_vq.py', 6, 64),   ('adder_n10_vq.py', 10, 64),   ('dj_indep_7_mqt.py', 7, 64),   ('Deutsch-Jozsa_qcraft.py', 4, 64),   ('pe_5_vq.py', 6, 64),   ('Deutsch-Jozsa_qcraft.py', 4, 64),   ('grover-v-chain_4_mqt.py', 4, 64),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 64),   ('vqe_indep_4_mqt.py', 4, 64),   ('shor_mod15_mqt.py', 5, 64),   ('grover-noancilla_4_mqt.py', 4, 64),   ('pe_2_vq.py', 3, 64),   ('grover_9_vq.py', 9, 64),   ('dj_indep_4_mqt.py', 4, 64),   ('su2random_3_mqt.py', 3, 64),   ('grover_qcraft.py', 2, 64),   ('grover-v-chain_3_mqt.py', 3, 64),   ('adder_n7_vq.py', 7, 64),   ('adder_n10_vq.py', 10, 64),   ('grover_9_vq.py', 9, 64),   ('qft_6_mqt.py', 6, 64), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 23
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('kickback_7_vq.py', 7, 65),   ('qaoa_indep_6_mqt.py', 6, 65),   ('grover-noancilla_4_mqt.py', 4, 65),   ('bv_2_vq.py', 2, 65),   ('dj_indep_14_mqt.py', 14, 65),   ('pe_6_vq.py', 7, 65),   ('6symd2_vq.py', 10, 65),   ('simon_qcraft.py', 6, 65),   ('phase_estimation_qcraft.py', 4, 65),   ('adder_n16_vq.py', 16, 65),   ('pe_2_vq.py', 3, 65),   ('bv_3_vq.py', 3, 65),   ('adder_n10_vq.py', 10, 65),   ('qft_4_mqt.py', 4, 65),   ('bernstein-vazirani_qcraft.py', 4, 65),   ('pe_5_vq.py', 6, 65),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 65),   ('simon_qcraft.py', 6, 65),   ('qwalk_qcraft.py', 3, 65),   ('qaoa_indep_3_mqt.py', 3, 65),   ('6symd2_vq.py', 10, 65),   ('vqe_indep_3_mqt.py', 3, 65),   ('qft_3_vq.py', 3, 65),   ('bv_2_vq.py', 2, 65), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 24
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 66),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 66),   ('bv_14_vq.py', 14, 66),   ('bv_14_vq.py', 14, 66),   ('grover_9_vq.py', 9, 66),   ('simon_vq.py', 6, 66),   ('adder_qcraft.py', 4, 66),   ('vqe_indep_5_mqt.py', 5, 66),   ('pe_2_vq.py', 3, 66),   ('bv_3_vq.py', 3, 66),   ('bv_2_vq.py', 2, 66),   ('su2random_3_mqt.py', 3, 66),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 66),   ('qft_6_mqt.py', 6, 66),   ('pe_4_mqt.py', 4, 66),   ('reversible_5_adder_vq.py', 11, 66),   ('adder_n10_vq.py', 10, 66),   ('qaoa_qcraft.py', 2, 66), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 18
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('shor_mod21_mqt.py', 8, 67),   ('su2_5_vq.py', 4, 67),   ('tsp_qcraft.py', 5, 67),   ('grover-v-chain_4_mqt.py', 4, 67),   ('qft_3_mqt.py', 3, 67),   ('bv_4_vq.py', 4, 67),   ('grover-noancilla_4_mqt.py', 4, 67),   ('pe_6_vq.py', 7, 67),   ('vqe_indep_3_mqt.py', 3, 67),   ('phase_estimation_qcraft.py', 4, 67),   ('6symd2_vq.py', 10, 67),   ('bernstein-vazirani_qcraft.py', 4, 67),   ('qft_qcraft.py', 4, 67),   ('grover_3_vq.py', 3, 67),   ('qaoa_indep_3_mqt.py', 3, 67),   ('bv_14_vq.py', 14, 67),   ('dj_indep_14_mqt.py', 14, 67),   ('tsp_indep_4_mqt.py', 4, 67),   ('qaoa_indep_6_mqt.py', 6, 67),   ('grover-v-chain_3_mqt.py', 3, 67),   ('grover_3_vq.py', 3, 67),   ('6symd2_vq.py', 10, 67),   ('bv_4_vq.py', 4, 67),   ('adder_n10_vq.py', 10, 67),   ('kickback_qcraft.py', 4, 67),   ('bernstein-vazirani_qcraft.py', 4, 67),   ('bernstein-vazirani_qcraft.py', 4, 67),   ('pe_5_mqt.py', 5, 67), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 28
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 68),   ('bv_4_vq.py', 4, 68),   ('qwalk-v-chain_3_mqt.py', 3, 68),   ('qaoa_indep_5_mqt.py', 5, 68),   ('grover_9_vq.py', 9, 68),   ('adder_qcraft.py', 4, 68),   ('vqe_indep_3_mqt.py', 3, 68),   ('Deutsch-Jozsa_qcraft.py', 4, 68),   ('pe_2_vq.py', 3, 68),   ('pe_6_mqt.py', 6, 68),   ('bv_5_vq.py', 5, 68),   ('qwalk-v-chain_5_mqt.py', 5, 68),   ('pe_5_vq.py', 6, 68),   ('qaoa_indep_6_mqt.py', 6, 68),   ('grover_7_vq.py', 7, 68),   ('dj_indep_4_mqt.py', 4, 68),   ('qaoa_indep_4_mqt.py', 4, 68),   ('qft_2_mqt.py', 2, 68),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 68),   ('bv_4_vq.py', 4, 68),   ('adder_n10_vq.py', 10, 68),   ('simon_vq.py', 6, 68),   ('qaoa_qcraft.py', 2, 68),   ('qwalk_qcraft.py', 3, 68),   ('qaoa_indep_5_mqt.py', 5, 68),   ('qaoa_indep_5_mqt.py', 5, 68), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 26
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('qwalk-v-chain_3_mqt.py', 3, 69),   ('qaoa_indep_5_mqt.py', 5, 69),   ('bv_14_vq.py', 14, 69),   ('qwalk-v-chain_3_mqt.py', 3, 69),   ('adder_n16_vq.py', 16, 69),   ('vqe_indep_5_mqt.py', 5, 69),   ('vqe_indep_3_mqt.py', 3, 69),   ('vqe_indep_5_mqt.py', 5, 69),   ('simon_vq.py', 6, 69),   ('adder_qcraft.py', 4, 69),   ('reversible_5_adder_vq.py', 11, 69),   ('pe_2_vq.py', 3, 69),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 69),   ('qwalk-noancilla_3_mqt.py', 3, 69),   ('bernstein-vazirani_qcraft.py', 4, 69),   ('tsp_indep_4_mqt.py', 4, 69),   ('adder_n4_vq.py', 4, 69),   ('bv_4_vq.py', 4, 69),   ('qft_3_mqt.py', 3, 69),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 69),   ('qaoa_indep_6_mqt.py', 6, 69),   ('tsp_qcraft.py', 5, 69),   ('pe_4_mqt.py', 4, 69), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 23
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('qwalk_qcraft.py', 3, 70),   ('dj_indep_14_mqt.py', 14, 70),   ('grover-v-chain_4_mqt.py', 4, 70),   ('adder_n16_vq.py', 16, 70),   ('qft_3_vq.py', 3, 70),   ('reversible_5_adder_vq.py', 11, 70),   ('bernstein-vazirani_qcraft.py', 4, 70),   ('bv_9_vq.py', 9, 70),   ('bv_4_vq.py', 4, 70),   ('qaoa_indep_6_mqt.py', 6, 70),   ('qft_6_mqt.py', 6, 70),   ('vqe_indep_3_mqt.py', 3, 70),   ('vqe_indep_4_mqt.py', 4, 70),   ('su2random_3_mqt.py', 3, 70),   ('qaoa_indep_5_mqt.py', 5, 70),   ('6symd2_vq.py', 10, 70),   ('grover-v-chain_3_mqt.py', 3, 70),   ('simon_vq.py', 6, 70),   ('qft_2_mqt.py', 2, 70),   ('bernstein-vazirani_qcraft.py', 4, 70),   ('dj_indep_14_mqt.py', 14, 70),   ('shor_mod15_mqt.py', 5, 70),   ('qaoa_indep_4_mqt.py', 4, 70),   ('shor_mod15_mqt.py', 5, 70),   ('vqe_indep_5_mqt.py', 5, 70),   ('qft_2_mqt.py', 2, 70), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 26
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 71),   ('adder_n16_vq.py', 16, 71),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 71),   ('grover-noancilla_4_mqt.py', 4, 71),   ('vqe_indep_4_mqt.py', 4, 71),   ('shor_qcraft.py', 4, 71),   ('adder_qcraft.py', 4, 71),   ('vqe_indep_6_mqt.py', 6, 71),   ('qwalk-noancilla_3_mqt.py', 3, 71),   ('pe_4_mqt.py', 4, 71),   ('adder_n4_vq.py', 4, 71),   ('qaoa_6_vq.py', 6, 71),   ('bv_4_vq.py', 4, 71),   ('grover_7_vq.py', 7, 71),   ('adder_n7_vq.py', 7, 71),   ('tsp_qcraft.py', 5, 71),   ('qft_7_vq.py', 7, 71),   ('adder_n10_vq.py', 10, 71),   ('reversible_5_adder_vq.py', 11, 71),   ('pe_2_vq.py', 3, 71),   ('bv_3_vq.py', 3, 71),   ('qft_3_vq.py', 3, 71), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 22
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('qft_7_vq.py', 7, 72),   ('6symd2_vq.py', 10, 72),   ('grover-v-chain_3_mqt.py', 3, 72),   ('qaoa_qcraft.py', 2, 72),   ('adder_n13_vq.py', 13, 72),   ('bv_5_vq.py', 5, 72),   ('vqe_indep_5_mqt.py', 5, 72),   ('adder_n10_vq.py', 10, 72),   ('20QBT_16CYC_32GN_1.0P2_0_vq.py', 20, 72),   ('dj_indep_14_mqt.py', 14, 72),   ('su2random_3_mqt.py', 3, 72),   ('adder_n13_vq.py', 13, 72),   ('bv_9_vq.py', 9, 72),   ('grover-v-chain_3_mqt.py', 3, 72),   ('qaoa_qcraft.py', 2, 72),   ('qft_3_vq.py', 3, 72),   ('adder_n13_vq.py', 13, 72),   ('qft_qcraft.py', 4, 72),   ('bv_3_vq.py', 3, 72),   ('bv_3_vq.py', 3, 72),   ('qwalk-v-chain_3_mqt.py', 3, 72),   ('bv_3_vq.py', 3, 72),   ('qft_qcraft.py', 4, 72), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 23
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('reversible_5_adder_vq.py', 11, 73),   ('grover-noancilla_4_mqt.py', 4, 73),   ('pe_7_mqt.py', 7, 73),   ('kickback_7_vq.py', 7, 73),   ('grover-noancilla_4_mqt.py', 4, 73),   ('vqe_indep_3_mqt.py', 3, 73),   ('vqe_indep_3_mqt.py', 3, 73),   ('grover_9_vq.py', 9, 73),   ('adder_n10_vq.py', 10, 73),   ('bv_3_vq.py', 3, 73),   ('qaoa_indep_4_mqt.py', 4, 73),   ('grover_7_vq.py', 7, 73),   ('vqe_indep_4_mqt.py', 4, 73),   ('adder_n13_vq.py', 13, 73),   ('simon_qcraft.py', 6, 73),   ('simon_vq.py', 6, 73),   ('simon_vq.py', 6, 73),   ('qaoa_indep_3_mqt.py', 3, 73),   ('grover-v-chain_3_mqt.py', 3, 73),   ('bv_5_vq.py', 5, 73),   ('dj_indep_4_mqt.py', 4, 73),   ('pe_5_mqt.py', 5, 73),   ('phase_estimation_qcraft.py', 4, 73),   ('shor_mod21_mqt.py', 8, 73),   ('simon_vq.py', 6, 73),   ('simon_qcraft.py', 6, 73),   ('qft_3_mqt.py', 3, 73),   ('grover_qcraft.py', 2, 73), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 28
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('kickback_7_vq.py', 7, 74),   ('qaoa_indep_3_mqt.py', 3, 74),   ('pe_6_mqt.py', 6, 74),   ('tsp_qcraft.py', 5, 74),   ('adder_n16_vq.py', 16, 74),   ('3_17tc_vq.py', 3, 74),   ('vqe_indep_4_mqt.py', 4, 74),   ('vqe_indep_6_mqt.py', 6, 74),   ('pe_5_mqt.py', 5, 74),   ('bv_4_vq.py', 4, 74),   ('tsp_indep_5_mqt.py', 5, 74),   ('shor_mod21_mqt.py', 8, 74),   ('pe_6_vq.py', 7, 74),   ('reversible_5_adder_vq.py', 11, 74),   ('qaoa_qcraft.py', 2, 74),   ('bv_14_vq.py', 14, 74),   ('qwalk_qcraft.py', 3, 74),   ('grover-v-chain_4_mqt.py', 4, 74),   ('vqe_indep_5_mqt.py', 5, 74),   ('qaoa_indep_3_mqt.py', 3, 74),   ('tsp_indep_4_mqt.py', 4, 74),   ('simon_qcraft.py', 6, 74),   ('tsp_qcraft.py', 5, 74),   ('qaoa_qcraft.py', 2, 74),   ('grover_9_vq.py', 9, 74),   ('dj_indep_5_mqt.py', 5, 74),   ('qwalk_qcraft.py', 3, 74), ]
+Suma total de qubits alcanzada: 155
+Elementos utilizados en la cola: 27
+
+Maquina utilizada: ibm_fez --Qubits: 156--
+Cola Seleccionada: [  ('qft_2_mqt.py', 2, 75),   ('vqe_indep_4_mqt.py', 4, 75),   ('qaoa_indep_4_mqt.py', 4, 75),   ('dj_indep_14_mqt.py', 14, 75),   ('grover_7_vq.py', 7, 75),   ('qaoa_indep_3_mqt.py', 3, 75),   ('20QBT_8CYC_16GN_1.0P2_0_vq.py', 20, 75),   ('grover_9_vq.py', 9, 75),   ('pe_3_mqt.py', 3, 75),   ('vqe_indep_3_mqt.py', 3, 75),   ('Deutsch-Jozsa_qcraft.py', 4, 75),   ('grover-v-chain_3_mqt.py', 3, 75),   ('dj_indep_7_mqt.py', 7, 75),   ('adder_n13_vq.py', 13, 75),   ('qaoa_indep_3_mqt.py', 3, 75),   ('bv_3_vq.py', 3, 75),   ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 75),   ('qwalk-v-chain_3_mqt.py', 3, 75),   ('qaoa_indep_5_mqt.py', 5, 75),   ('grover-noancilla_4_mqt.py', 4, 75),   ('su2random_3_mqt.py', 3, 75),   ('shor_mod15_mqt.py', 5, 75),   ('pe_2_vq.py', 3, 75),   ('grover_9_vq.py', 9, 75),   ('grover_qcraft.py', 2, 75), ]
+Suma total de qubits alcanzada: 156
+Elementos utilizados en la cola: 25
+
+Maquina utilizada: ibm_marrakesh --Qubits: 156--
+Cola Seleccionada: [  ('pe_2_vq.py', 3, 76),   ('pe_5_vq.py', 6, 76),   ('vqe_indep_4_mqt.py', 4, 76),   ('dj_indep_7_mqt.py', 7, 76),   ('pe_4_mqt.py', 4, 76),   ('grover-noancilla_4_mqt.py', 4, 76),   ('grover_9_vq.py', 9, 76),   ('adder_n13_vq.py', 13, 76),   ('bv_5_vq.py', 5, 76),   ('grover_3_vq.py', 3, 76),   ('bv_4_vq.py', 4, 76),   ('reversible_5_adder_vq.py', 11, 76),   ('dj_indep_4_mqt.py', 4, 76),   ('qft_4_mqt.py', 4, 76),   ('adder_n13_vq.py', 13, 76),   ('qwalk-v-chain_3_mqt.py', 3, 76),   ('shor_mod21_mqt.py', 8, 76),   ('qaoa_indep_6_mqt.py', 6, 76),   ('su2_5_vq.py', 4, 76),   ('grover-v-chain_4_mqt.py', 4, 76),   ('6symd2_vq.py', 10, 76),   ('grover_qcraft.py', 2, 76),   ('qaoa_indep_6_mqt.py', 6, 76),   ('qaoa_qcraft.py', 2, 76),   ('phase_estimation_qcraft.py', 4, 76),   ('kickback_qcraft.py', 4, 76),   ('3_17tc_vq.py', 3, 76),   ('qft_3_mqt.py', 3, 76), ]
+Suma total de qubits alcanzada: 153
+Elementos utilizados en la cola: 28
+
+Maquina utilizada: Forte 1 --Qubits: 36--
+Cola Seleccionada: [  ('20QBT_4CYC_8GN_1.0P2_0_vq.py', 20, 77),   ('vqe_indep_5_mqt.py', 5, 77), ]
+Suma total de qubits alcanzada: 25
+Elementos utilizados en la cola: 2
